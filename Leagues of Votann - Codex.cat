@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="9a1c-b5e2-40c7-8fda" name="Leagues of Votann" revision="3" battleScribeVersion="2.00" authorName="" authorContact="" authorUrl="" gameSystemId="e1ebd931-a209-3ce4-87b4-d9918d25530b" gameSystemRevision="2017" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <profiles/>
+  <rules/>
+  <infoLinks/>
+  <costTypes/>
+  <profileTypes/>
+  <forceEntries>
+    <forceEntry id="cf10-6e2a-9b34-7c11" name="Leagues of Votann Detachment" hidden="false">
+      <profiles/><rules/>
+      <infoLinks><infoLink id="il-9494" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9495" hidden="false" targetId="rule-9001" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9496" hidden="false" targetId="rule-9004" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9497" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9498" hidden="false" targetId="rule-9005" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9499" hidden="false" targetId="rule-9006" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9500" hidden="false" targetId="rule-9055" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9501" hidden="false" targetId="rule-9056" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <categoryEntries>
+<categoryEntry id="848a6ff2-0def-4c72-8433-ff7da70e6bc7" name="HQ" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/><constraints/>
+  </categoryEntry>
+<categoryEntry id="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" name="Troops" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/><constraints/>
+  </categoryEntry>
+<categoryEntry id="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" name="Elites" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/><constraints/>
+  </categoryEntry>
+<categoryEntry id="c274d0b0-5866-44bc-9810-91c136ae7438" name="Fast Attack" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/><constraints/>
+  </categoryEntry>
+<categoryEntry id="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" name="Heavy Support" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/><constraints/>
+  </categoryEntry>
+<categoryEntry id="c888f08a-6cea-4a01-8126-d374a9231554" name="Lord of War" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/><constraints/>
+  </categoryEntry>
+      </categoryEntries>
+      <forceEntries/>
+    </forceEntry>
+  </forceEntries>
+  <selectionEntries/>
+  <entryLinks>
+<entryLink id="el-9470" name="New EntryLink" hidden="false" targetId="unit-9057" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9471" name="New EntryLink" hidden="false" targetId="unit-9077" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9472" name="New EntryLink" hidden="false" targetId="unit-9093" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9473" name="New EntryLink" hidden="false" targetId="unit-9102" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9474" name="New EntryLink" hidden="false" targetId="unit-9123" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9475" name="New EntryLink" hidden="false" targetId="unit-9139" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9476" name="New EntryLink" hidden="false" targetId="unit-9151" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9477" name="New EntryLink" hidden="false" targetId="unit-9170" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9478" name="New EntryLink" hidden="false" targetId="unit-9180" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9479" name="New EntryLink" hidden="false" targetId="unit-9191" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9480" name="New EntryLink" hidden="false" targetId="unit-9203" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9481" name="New EntryLink" hidden="false" targetId="unit-9220" type="selectionEntry" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9482" name="New EntryLink" hidden="false" targetId="unit-9254" type="selectionEntry" categoryEntryId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9483" name="New EntryLink" hidden="false" targetId="unit-9289" type="selectionEntry" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9484" name="New EntryLink" hidden="false" targetId="unit-9308" type="selectionEntry" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9485" name="New EntryLink" hidden="false" targetId="unit-9327" type="selectionEntry" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9486" name="New EntryLink" hidden="false" targetId="unit-9345" type="selectionEntry" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9487" name="New EntryLink" hidden="false" targetId="unit-9364" type="selectionEntry" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9488" name="New EntryLink" hidden="false" targetId="unit-9382" type="selectionEntry" categoryEntryId="c274d0b0-5866-44bc-9810-91c136ae7438"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9489" name="New EntryLink" hidden="false" targetId="unit-9402" type="selectionEntry" categoryEntryId="c274d0b0-5866-44bc-9810-91c136ae7438"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9490" name="New EntryLink" hidden="false" targetId="unit-9414" type="selectionEntry" categoryEntryId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9491" name="New EntryLink" hidden="false" targetId="unit-9430" type="selectionEntry" categoryEntryId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9492" name="New EntryLink" hidden="false" targetId="unit-9439" type="selectionEntry" categoryEntryId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+<entryLink id="el-9493" name="New EntryLink" hidden="false" targetId="unit-9463" type="selectionEntry" categoryEntryId="c888f08a-6cea-4a01-8126-d374a9231554"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+<selectionEntry id="unit-9057" name="Ûthar the Destined" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9058" name="Ûthar the Destined" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="5"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="5"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="5"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="4"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="5"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="6"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="3+"/>
+      </characteristics></profile>
+        <profile id="prof-9059" name="Ancestral Fortune" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per battle, change one hit/wound/save roll for this model to a 6."/>
+      </characteristics></profile>
+<profile id="prof-9060" name="Invulnerable Save" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="4+ invulnerable save."/>
+      </characteristics></profile>
+<profile id="prof-9061" name="Wargear Notes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Unique model."/>
+      </characteristics></profile>
+        <profile id="prof-9062" name="Blade of the Ancestors" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+2. AP4. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Rending."/>
+      </characteristics></profile>
+<profile id="prof-9063" name="Autoch-pattern Bolt Pistol" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 12&quot;. S4. no AP. Keywords: Pistol."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9064" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9065" hidden="false" targetId="rule-9004" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9068" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9069" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9066" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9067" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="130.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9077" name="Kâhl" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9078" name="Kâhl" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="3"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="8"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="4"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="4"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="3"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="3+"/>
+      </characteristics></profile>
+        <profile id="prof-9079" name="Kindred Hero" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="While leading a unit, that unit's weapons re-roll hit rolls of 1."/>
+      </characteristics></profile>
+<profile id="prof-9080" name="Invulnerable Save" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="4+ invulnerable save."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9081" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9084" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9085" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9070" name="Kâhl Wargear" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9075" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9076" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9071" name="Mass Gauntlet &amp; Combi-bolter" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9072" name="Mass Gauntlet &amp; Combi-bolter" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee/24&quot;. S+3/4. AP1. This weapon inflicts 3/1 wounds per unsaved hit instead of 1 (extra wounds, no armour/invulnerable save)."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9073" name="Mass Gauntlet &amp; Teleport Crest" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9074" name="Mass Gauntlet &amp; Teleport Crest" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+3. AP4. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total. Keywords: Deep Strike."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="8.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9082" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9083" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="55.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9093" name="Einhyr Champion" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9094" name="Einhyr Champion" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="3"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="3"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="5"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="4"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="3"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="2+"/>
+      </characteristics></profile>
+        <profile id="prof-9095" name="Exemplar of the Einhyr" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="+1 Advance/Charge for the unit this model leads."/>
+      </characteristics></profile>
+<profile id="prof-9096" name="Mass Driver Accelerators" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="On charging, D3 (2-5) or D3+3 (6) mortal wounds to one enemy unit in Engagement Range."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9097" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9100" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9101" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9086" name="Einhyr Champion Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9091" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9092" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9087" name="Mass Hammer" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9088" name="Mass Hammer" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. Sx2. AP4. Multiple Wounds (6): each unsaved wound this weapon causes inflicts 6 further wound(s), no armour/invulnerable save, for 7 total."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9089" name="Darkstar Axe" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9090" name="Darkstar Axe" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+1. AP4. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9098" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9099" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="75.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9102" name="Grimnyr" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9103" name="Grimnyr" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="7"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="4"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="2"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="6"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+        <profile id="prof-9104" name="Fortify (Psychic)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="While leading a unit, that unit has Feel No Pain (5+)."/>
+      </characteristics></profile>
+<profile id="prof-9105" name="Grimnyr's Regard" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per battle, one failed Morale/Leadership test within 12&quot; may be re-taken."/>
+      </characteristics></profile>
+<profile id="prof-9106" name="Psyker (Mastery Level 2)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Knows Smite plus 2 powers from the Skeinwrought Discipline (see below)."/>
+      </characteristics></profile>
+        <profile id="prof-9107" name="Ancestral Ward Stave" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+3. AP6. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9108" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9112" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9113" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9109" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9110" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="ps-9111" name="Skeinwrought Discipline" hidden="false" targetId="grp-9052" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="55.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9123" name="Brôkhyr Iron-master" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9124" name="Brôkhyr Iron-master" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="4"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="3"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+        <profile id="prof-9125" name="Forgewrought Expertise" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="End of Movement phase: repair D3 wounds on a friendly Vehicle/Exoframe/Ironkin unit within 3&quot;."/>
+      </characteristics></profile>
+<profile id="prof-9126" name="Multi-spectral Visor" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Re-roll wound rolls of 1 for this unit's ranged attacks."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9127" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9130" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9131" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9114" name="Iron-master Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9121" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9122" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9115" name="Graviton Hammer" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9116" name="Graviton Hammer" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. Sx2. AP6. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total. Keywords: vs Monster/Vehicle: wounds on 3+."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9117" name="Plasma Torch" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9118" name="Plasma Torch" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+4. AP4. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9119" name="Las-beam Cutter" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9120" name="Las-beam Cutter" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 6&quot;. S6. AP4. Keywords: Pistol."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9128" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9129" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="55.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9139" name="Buri Aegnirssen" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9140" name="Buri Aegnirssen" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="5"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="4"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="5"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="6"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="3+"/>
+      </characteristics></profile>
+        <profile id="prof-9141" name="Invulnerable Save" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="4+ invulnerable save."/>
+      </characteristics></profile>
+<profile id="prof-9142" name="Grudge-fuelled Fortitude" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="First death each game: 2+ on D6 returns this model with full wounds."/>
+      </characteristics></profile>
+<profile id="prof-9143" name="Unhinged Vengeance" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="May move D6+2&quot; toward the nearest enemy after being shot, once per phase."/>
+      </characteristics></profile>
+<profile id="prof-9144" name="Wargear Notes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Unique model."/>
+      </characteristics></profile>
+        <profile id="prof-9145" name="Autoch-pattern Bolt Pistol" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 12&quot;. S4. no AP. Keywords: Pistol."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9146" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9149" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9150" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9132" name="Bane Weapon Profile" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9137" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9138" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9133" name="Bane - Strike" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9134" name="Bane - Strike" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. Sx2. AP4. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total. Keywords: Precision."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9135" name="Bane - Sweep" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9136" name="Bane - Sweep" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. SUser. AP5. Keywords: 10 Attacks."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9147" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9148" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="100.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9151" name="Memnyr Strategist" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9152" name="Memnyr Strategist" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="3"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="4"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="1"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+        <profile id="prof-9153" name="Predictive Guidance" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per battle round, this unit may react defensively at no extra cost (represents free Fire Overwatch/Heroic Intervention)."/>
+      </characteristics></profile>
+        <profile id="prof-9154" name="Autoch-pattern Bolt Pistol" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 12&quot;. S4. no AP. Keywords: Pistol."/>
+      </characteristics></profile>
+<profile id="prof-9155" name="Close Combat Weapon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S3. no AP."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9156" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9159" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9160" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9157" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9158" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="45.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9170" name="Arkanyst Evaluator" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9171" name="Arkanyst Evaluator" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="2"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="8"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="4"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="1"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="3+"/>
+      </characteristics></profile>
+        <profile id="prof-9172" name="Science Guild Support" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Cannot be targeted by ranged attacks unless the closest eligible target, while within 3&quot; of another friendly Votann Infantry unit."/>
+      </characteristics></profile>
+<profile id="prof-9173" name="Resource Transmutation" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per turn, this model's ranged weapons gain Sustained Hits 1 for the phase."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9174" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9175" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9178" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9179" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9161" name="Transmatter Inverter Charge" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9168" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9169" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9162" name="Half Charge" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9163" name="Half Charge" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 12&quot;. S8. AP6. Keywords: Rapid Fire 1."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9164" name="Full Charge" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9165" name="Full Charge" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 18&quot;. S8. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Rapid Fire 2."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9166" name="Overcharge" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9167" name="Overcharge" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S8. AP4. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total. Keywords: Rapid Fire 3."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9176" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9177" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="65.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9180" name="Living Ancestor" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9181" name="Living Ancestor" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="4"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="4"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="1"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="6"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+        <profile id="prof-9182" name="Invulnerable Save (4+)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="4+ invulnerable save."/>
+      </characteristics></profile>
+<profile id="prof-9183" name="Grimnyr's Regard" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per battle, remove Battle-shocked status from a friendly unit within 12&quot;."/>
+      </characteristics></profile>
+<profile id="prof-9184" name="Wargear Notes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Crucible of Genesis character."/>
+      </characteristics></profile>
+        <profile id="prof-9185" name="Close Combat Weapon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S3. no AP."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9186" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9189" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9190" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9187" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9188" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="65.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9191" name="Kinhost Commander" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9192" name="Kinhost Commander" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="5"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="4"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="1"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="3+"/>
+      </characteristics></profile>
+        <profile id="prof-9193" name="Invulnerable Save (4+)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="4+ invulnerable save."/>
+      </characteristics></profile>
+<profile id="prof-9194" name="Seized Opportunity" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="This unit's kills may grant a minor bonus at your discretion, e.g. +1 to its next Combat Attrition test."/>
+      </characteristics></profile>
+<profile id="prof-9195" name="Wargear Notes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Crucible of Genesis character."/>
+      </characteristics></profile>
+        <profile id="prof-9196" name="Close Combat Weapon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S3. no AP."/>
+      </characteristics></profile>
+<profile id="prof-9197" name="Autoch-pattern Bolt Pistol" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 12&quot;. S4. no AP. Keywords: Pistol."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9198" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9201" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9202" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9199" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9200" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="60.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9203" name="Steeljack Elder" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9204" name="Steeljack Elder" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="5"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="1"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="2+"/>
+      </characteristics></profile>
+        <profile id="prof-9205" name="Forgewrought Skill" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Re-roll the hit roll for this model's attacks."/>
+      </characteristics></profile>
+<profile id="prof-9206" name="Wargear Notes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Crucible of Genesis character."/>
+      </characteristics></profile>
+        <profile id="prof-9207" name="Close Combat Weapon (Steeljack pattern)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S3. no AP."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9208" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9211" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9212" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9209" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9210" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="75.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9220" name="Berehk Stornbröw" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" type="unit">
+      <profiles>
+        <profile id="prof-9221" name="Berehk Stornbröw" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="2"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="2"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="10"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="5"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="4"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="4"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="5+"/>
+      </characteristics></profile>
+        <profile id="prof-9222" name="Invulnerable Save (5+)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="5+ invulnerable save."/>
+      </characteristics></profile>
+<profile id="prof-9223" name="Break the Foe" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="This unit's melee weapons gain Sustained Hits 1."/>
+      </characteristics></profile>
+<profile id="prof-9224" name="Relentless Avalanche" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="May make an emergency counter-charge once per phase at no extra cost."/>
+      </characteristics></profile>
+<profile id="prof-9225" name="Wargear Notes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Unique model."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9226" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9227" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9230" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9231" type="max"/>
+      </constraints>
+      <selectionEntries></selectionEntries>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9213" name="Kromlôk's Revenge Profile" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9218" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9219" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9214" name="Graviton Strikes" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9215" name="Graviton Strikes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. Sx2. AP5. Multiple Wounds (3): each unsaved wound this weapon causes inflicts 3 further wound(s), no armour/invulnerable save, for 4 total. Keywords: vs Monster/Vehicle: wounds on 3+, Sustained Hits 1."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9216" name="Plasma Sweeps" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9217" name="Plasma Sweeps" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+1. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: 8 Attacks, Sustained Hits 1."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks><entryLink id="wl-9228" name="Warlord Trait" hidden="false" targetId="grp-9019" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink><entryLink id="rl-9229" name="Relic" hidden="false" targetId="grp-9036" type="selectionEntryGroup"><profiles/><rules/><infoLinks/><modifiers/><constraints/></entryLink></entryLinks>
+      <costs><cost name="pts" costTypeId="points" value="100.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9254" name="Hearthkyn Warriors" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" type="unit">
+      <profiles>
+        <profile id="prof-9255" name="Squad Composition" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="5-20 models: 4-19 Hearthkyn Warriors plus 1 mandatory Theyn."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9256" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9257" hidden="false" targetId="rule-9001" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9236" name="Hearthkyn Warrior" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9237" name="Hearthkyn Warrior" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="4"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="1"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="1"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+          <profile id="prof-9238" name="Pan-spectral Scanning" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Re-roll hit rolls of 1 on ranged attacks."/>
+      </characteristics></profile>
+          <profile id="prof-9239" name="Autoch-pattern Bolter" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S4. no AP."/>
+      </characteristics></profile>
+<profile id="prof-9240" name="Autoch-pattern Bolt Pistol" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 12&quot;. S4. no AP. Keywords: Pistol."/>
+      </characteristics></profile>
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9241" type="min"/>
+          <constraint field="selections" scope="parent" value="19.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9242" type="max"/>
+        </constraints>
+        <selectionEntries>
+          <selectionEntry id="addon-9232" name="Ion Blaster (replaces Bolter)" hidden="false" collective="false" type="upgrade">
+          <profiles>
+            <profile id="prof-9233" name="Ion Blaster (replaces Bolter)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 18&quot;. S5. AP5."/>
+      </characteristics></profile>
+          </profiles>
+          <rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9234" type="min"/>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9235" type="max"/>
+          </constraints>
+          <selectionEntries/><selectionEntryGroups/><entryLinks/>
+          <costs><cost name="pts" costTypeId="points" value="5.0"/></costs>
+        </selectionEntry>
+        </selectionEntries>
+        <selectionEntryGroups>
+          
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="12.0"/></costs>
+      </selectionEntry><selectionEntry id="model-9250" name="Theyn" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9251" name="Theyn" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="4"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="2"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="2"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="8"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+          
+          
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9252" type="min"/>
+          <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9253" type="max"/>
+        </constraints>
+        <selectionEntries>
+          
+        </selectionEntries>
+        <selectionEntryGroups>
+          <selectionEntryGroup id="grp-9243" name="Theyn Wargear" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9248" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9249" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9244" name="Close Combat Weapon &amp; Bolt Pistol" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9245" name="Close Combat Weapon &amp; Bolt Pistol" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee/12&quot;. S5/4. AP1. This weapon inflicts 1/1 wounds per unsaved hit instead of 1 (extra wounds, no armour/invulnerable save)."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9246" name="Theyn's Melee Weapon &amp; Pistol" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9247" name="Theyn's Melee Weapon &amp; Pistol" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee/12&quot;. S5/8. AP1. This weapon inflicts 2/1 wounds per unsaved hit instead of 1 (extra wounds, no armour/invulnerable save)."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="6.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup>
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="26.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9289" name="Einhyr Hearthguard" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" type="unit">
+      <profiles>
+        <profile id="prof-9290" name="Squad Composition" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="5-10 models: 4-9 Hearthguard plus 1 mandatory Hesyr (leader)."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9291" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9292" hidden="false" targetId="rule-9004" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9272" name="Hearthguard" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9273" name="Hearthguard" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="3"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="8"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="2"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="2"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="2+"/>
+      </characteristics></profile>
+          <profile id="prof-9274" name="Decisive Destruction" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Re-roll hit rolls of 1 vs the closest eligible target."/>
+      </characteristics></profile>
+          
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9275" type="min"/>
+          <constraint field="selections" scope="parent" value="9.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9276" type="max"/>
+        </constraints>
+        <selectionEntries>
+          
+        </selectionEntries>
+        <selectionEntryGroups>
+          <selectionEntryGroup id="grp-9258" name="Hearthguard Ranged Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9263" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9264" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9259" name="EtaCarn Plasma Gun" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9260" name="EtaCarn Plasma Gun" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S7. AP4. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Rapid Fire 1."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9261" name="Volkanite Disintegrator" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9262" name="Volkanite Disintegrator" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S5. no AP. Keywords: Rending."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup><selectionEntryGroup id="grp-9265" name="Hearthguard Melee Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9270" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9271" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9266" name="Concussion Gauntlet" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9267" name="Concussion Gauntlet" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+3. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9268" name="Plasma Blade Gauntlet" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9269" name="Plasma Blade Gauntlet" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+1. AP5. Keywords: 3 Attacks."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup>
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="32.0"/></costs>
+      </selectionEntry><selectionEntry id="model-9284" name="Hesyr" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9285" name="Hesyr" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="3"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="8"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="2"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="3"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="2+"/>
+      </characteristics></profile>
+          
+          <profile id="prof-9286" name="EtaCarn Plasma Gun" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S7. AP4. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Rapid Fire 1."/>
+      </characteristics></profile>
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9287" type="min"/>
+          <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9288" type="max"/>
+        </constraints>
+        <selectionEntries>
+          
+        </selectionEntries>
+        <selectionEntryGroups>
+          <selectionEntryGroup id="grp-9277" name="Hesyr Melee Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9282" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9283" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9278" name="Concussion Gauntlet" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9279" name="Concussion Gauntlet" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+3. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9280" name="Graviton Hammer" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9281" name="Graviton Hammer" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. Sx2. AP6. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total. Keywords: vs Monster/Vehicle: wounds on 3+."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="4.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup>
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="38.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9308" name="Cthonian Berserks" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" type="unit">
+      <profiles>
+        <profile id="prof-9309" name="Squad Composition" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="5-10 Beserk models."/>
+      </characteristics></profile>
+<profile id="prof-9310" name="Subterranean Explosives" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="A unit hit by this unit's mole grenade launcher cannot use emergency defensive fire until your next turn."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9311" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9302" name="Beserk" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9303" name="Beserk" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="9"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="1"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="4"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="4"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="5+"/>
+      </characteristics></profile>
+          <profile id="prof-9304" name="Cyberstimms" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="On a 4+, a model destroyed in melee before it fought fights back before being removed."/>
+      </characteristics></profile>
+          <profile id="prof-9305" name="Twin Concussion Gauntlets" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+3. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Twin-linked."/>
+      </characteristics></profile>
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="5.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9306" type="min"/>
+          <constraint field="selections" scope="parent" value="10.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9307" type="max"/>
+        </constraints>
+        <selectionEntries>
+          <selectionEntry id="addon-9298" name="Mole Grenade Launcher (special weapon)" hidden="false" collective="false" type="upgrade">
+          <profiles>
+            <profile id="prof-9299" name="Mole Grenade Launcher (special weapon)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 18&quot;. S5. AP6. Keywords: Blast, Indirect Fire."/>
+      </characteristics></profile>
+          </profiles>
+          <rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9300" type="min"/>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9301" type="max"/>
+          </constraints>
+          <selectionEntries/><selectionEntryGroups/><entryLinks/>
+          <costs><cost name="pts" costTypeId="points" value="8.0"/></costs>
+        </selectionEntry>
+        </selectionEntries>
+        <selectionEntryGroups>
+          
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="22.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9327" name="Brôkhyr Thunderkyn" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" type="unit">
+      <profiles>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9328" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9329" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9321" name="Brôkhyr Thunderkyn" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9322" name="Brôkhyr Thunderkyn" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="2"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="2"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="3+"/>
+      </characteristics></profile>
+          <profile id="prof-9323" name="Breaching Fire" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="A unit hit by this unit's shooting loses the benefit of cover until your next Shooting phase."/>
+      </characteristics></profile>
+          <profile id="prof-9324" name="Close Combat Weapon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S4. no AP."/>
+      </characteristics></profile>
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9325" type="min"/>
+          <constraint field="selections" scope="parent" value="6.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9326" type="max"/>
+        </constraints>
+        <selectionEntries>
+          
+        </selectionEntries>
+        <selectionEntryGroups>
+          <selectionEntryGroup id="grp-9312" name="Thunderkyn Heavy Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9319" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9320" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9313" name="Bolt Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9314" name="Bolt Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 36&quot;. S6. AP6. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Sustained Hits 2."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9315" name="SP Conversion Beamer" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9316" name="SP Conversion Beamer" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S7. AP5. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total. Keywords: Conversion."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="5.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9317" name="Graviton Blast Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9318" name="Graviton Blast Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S5. AP5. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total. Keywords: vs Monster/Vehicle: wounds on 3+."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="4.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup>
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="27.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9345" name="Ironkin Steeljacks" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" type="unit">
+      <profiles>
+        <profile id="prof-9346" name="Squad Composition" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="3-6 Ironkin Steeljacks - consolidates 10e's two loadout-locked variants into one unit with a per-model choice."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9347" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9348" hidden="false" targetId="rule-9004" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9349" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9339" name="Ironkin Steeljack" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9340" name="Ironkin Steeljack" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="3"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="2"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="2+"/>
+      </characteristics></profile>
+          <profile id="prof-9341" name="Purge Response" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="This unit's emergency defensive fire hits on 5+ instead of 6."/>
+      </characteristics></profile>
+<profile id="prof-9342" name="Merciless Eradication" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Enemy units falling back from combat with this unit suffer a Morale penalty."/>
+      </characteristics></profile>
+          
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9343" type="min"/>
+          <constraint field="selections" scope="parent" value="6.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9344" type="max"/>
+        </constraints>
+        <selectionEntries>
+          
+        </selectionEntries>
+        <selectionEntryGroups>
+          <selectionEntryGroup id="grp-9330" name="Ironkin Steeljacks Loadout" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9337" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9338" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9331" name="Heavy Volkanite Disintegrator (ranged)" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9332" name="Heavy Volkanite Disintegrator (ranged)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S6. AP6. Keywords: Rending."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9333" name="Plasma Sword (melee)" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9334" name="Plasma Sword (melee)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+2. AP5. Keywords: 6 Attacks, Sustained Hits 1."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9335" name="Concussion Gauntlet (melee)" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9336" name="Concussion Gauntlet (melee)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+4. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Lethal Hits."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup>
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="33.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9364" name="Cthonian Earthshakers" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" type="unit">
+      <profiles>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9365" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9357" name="Cthonian Earthshaker" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9358" name="Cthonian Earthshaker" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="3"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="5"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="6"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="4"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+          <profile id="prof-9359" name="Geomantic Hunters" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Twice per battle, re-roll wound rolls for this unit's ordnance attacks."/>
+      </characteristics></profile>
+<profile id="prof-9360" name="Destabilising Quakes" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="A unit hit by tremor shells must re-take a Morale test with a penalty."/>
+      </characteristics></profile>
+          <profile id="prof-9361" name="Plasma Picks" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: Melee. S+1. AP5."/>
+      </characteristics></profile>
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9362" type="min"/>
+          <constraint field="selections" scope="parent" value="6.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9363" type="max"/>
+        </constraints>
+        <selectionEntries>
+          
+        </selectionEntries>
+        <selectionEntryGroups>
+          <selectionEntryGroup id="grp-9350" name="Earthshaker Primary Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9355" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9356" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9351" name="Breacher Ordnance" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9352" name="Breacher Ordnance" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S10. AP6. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Blast, Indirect Fire."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9353" name="Tremor Shells" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9354" name="Tremor Shells" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 36&quot;. S6. AP6. Keywords: Blast, Indirect Fire."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup>
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="37.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9382" name="Hernkyn Pioneers" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="c274d0b0-5866-44bc-9810-91c136ae7438" type="unit">
+      <profiles>
+        <profile id="prof-9383" name="Squad Composition" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="3-6 models. Biker unit type - unaffected by Short-legged. Up to 2 models may swap their shotgun for a heavy weapon."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9384" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9385" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9375" name="Hernkyn Pioneer" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9376" name="Hernkyn Pioneer" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Biker"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="5"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="6"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="3"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="3"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="4+"/>
+      </characteristics></profile>
+          <profile id="prof-9377" name="Outflanking Mag-Riders" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="At the end of the opponent's turn, if wholly within 9&quot; of a board edge and not in combat, may be placed into Reserves."/>
+      </characteristics></profile>
+          <profile id="prof-9378" name="Bolt Revolver" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 12&quot;. S5. no AP. Keywords: Pistol."/>
+      </characteristics></profile>
+<profile id="prof-9379" name="Bolt Shotgun" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 18&quot;. S5. no AP. Keywords: Assault."/>
+      </characteristics></profile>
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9380" type="min"/>
+          <constraint field="selections" scope="parent" value="6.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9381" type="max"/>
+        </constraints>
+        <selectionEntries>
+          <selectionEntry id="addon-9371" name="Heavy Weapon (HYLas Rotary Cannon)" hidden="false" collective="false" type="upgrade">
+          <profiles>
+            <profile id="prof-9372" name="Heavy Weapon (HYLas Rotary Cannon)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S6. AP6. Keywords: Sustained Hits 1."/>
+      </characteristics></profile>
+          </profiles>
+          <rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9373" type="min"/>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9374" type="max"/>
+          </constraints>
+          <selectionEntries/><selectionEntryGroups/><entryLinks/>
+          <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+        </selectionEntry>
+        </selectionEntries>
+        <selectionEntryGroups>
+          
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="30.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9402" name="Hernkyn Yaegirs" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="c274d0b0-5866-44bc-9810-91c136ae7438" type="unit">
+      <profiles>
+        <profile id="prof-9403" name="Squad Composition" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="5-10 Hernkyn Yaegir models."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9404" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/><constraints/>
+      <selectionEntries>
+        <selectionEntry id="model-9395" name="Hernkyn Yaegir" hidden="false" collective="false" type="model">
+        <profiles>
+          <profile id="prof-9396" name="Hernkyn Yaegir" hidden="false" profileTypeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Unit Type" characteristicTypeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5" value="Infantry"/>
+        <characteristic name="WS" characteristicTypeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e" value="4"/>
+        <characteristic name="BS" characteristicTypeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5" value="4"/>
+        <characteristic name="S" characteristicTypeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b" value="6"/>
+        <characteristic name="T" characteristicTypeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd" value="5"/>
+        <characteristic name="W" characteristicTypeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8" value="1"/>
+        <characteristic name="I" characteristicTypeId="a558b3ef-04d0-440e-a312-bac3255bf592" value="3"/>
+        <characteristic name="A" characteristicTypeId="5dff3e7c-e024-4030-a71d-03195ec06ea7" value="2"/>
+        <characteristic name="Ld" characteristicTypeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea" value="7"/>
+        <characteristic name="Save" characteristicTypeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d" value="5+"/>
+      </characteristics></profile>
+          <profile id="prof-9397" name="Pragmatic Hunters" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per turn, may move D6&quot; when an enemy ends a move within 9&quot;."/>
+      </characteristics></profile>
+<profile id="prof-9398" name="Infiltrators" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="May deploy anywhere more than 9&quot; from the enemy, instead of your own deployment zone."/>
+      </characteristics></profile>
+<profile id="prof-9399" name="Guerrilla Adepts" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per battle, may fire at a target regardless of normal targeting priority."/>
+      </characteristics></profile>
+          
+        </profiles>
+        <rules/><infoLinks/><modifiers/>
+        <constraints>
+          <constraint field="selections" scope="parent" value="5.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9400" type="min"/>
+          <constraint field="selections" scope="parent" value="10.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9401" type="max"/>
+        </constraints>
+        <selectionEntries>
+          
+        </selectionEntries>
+        <selectionEntryGroups>
+          <selectionEntryGroup id="grp-9386" name="Hernkyn Yaegir Special Weapon (up to 3 per unit)" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9393" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9394" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9387" name="Bolt Shotgun" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9388" name="Bolt Shotgun" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 18&quot;. S5. no AP. Keywords: Assault."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9389" name="APM Launcher" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9390" name="APM Launcher" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S6. AP5. Keywords: vs Monster/Vehicle: wounds on 3+, D6 shots."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="4.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9391" name="Magna-coil Rifle" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9392" name="Magna-coil Rifle" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S5. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Ignores Cover, Precision."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="4.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup>
+        </selectionEntryGroups>
+        <entryLinks>
+          
+        </entryLinks>
+        <costs><cost name="pts" costTypeId="points" value="18.0"/></costs>
+      </selectionEntry>
+      </selectionEntries>
+      <selectionEntryGroups/>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9414" name="Sagitaur" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" type="unit">
+      <profiles>
+        <profile id="prof-9415" name="Sagitaur" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Vehicle (Fast, Skimmer, Transport), M12&quot;. Armour: Front 12, Side 12, Rear 11. Hull Points: 4. Transport capacity: 6 Infantry (no Artillery/Exoarmour/Exoframe/Ironkin Steeljacks)."/>
+      </characteristics></profile>
+        <profile id="prof-9416" name="Blistering Advance" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Units may disembark after this vehicle Advances, counting as having made a Normal move (cannot then charge)."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9417" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9418" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9419" type="min"/>
+        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9420" type="max"/>
+      </constraints>
+      <selectionEntries/>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9405" name="Sagitaur Main Gun" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9412" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9413" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9406" name="Twin Bolt Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9407" name="Twin Bolt Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 36&quot;. S6. AP6. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Sustained Hits 2, Twin-linked."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9408" name="HYLas Beam Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9409" name="HYLas Beam Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S12. AP4. Multiple Wounds (6): each unsaved wound this weapon causes inflicts 6 further wound(s), no armour/invulnerable save, for 7 total."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="12.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9410" name="Sagitaur Missile Launcher" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9411" name="Sagitaur Missile Launcher" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 36&quot;. S10. AP4. Multiple Wounds (2): each unsaved wound this weapon causes inflicts 2 further wound(s), no armour/invulnerable save, for 3 total."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="8.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="75.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9430" name="Kapricus Defender" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" type="unit">
+      <profiles>
+        <profile id="prof-9431" name="Kapricus Defender" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Vehicle (Fly, Skimmer), M12&quot;. Armour: Front 12, Side 11, Rear 10. Hull Points: 5. Transport capacity: none (gunship)."/>
+      </characteristics></profile>
+        <profile id="prof-9432" name="Opportunistic Manoeuvre" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="After shooting, may move D6&quot; (cannot then charge this turn)."/>
+      </characteristics></profile>
+<profile id="prof-9433" name="Smoke Launcher" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per game, grant this model a 5+ invulnerable save vs ranged attacks for one turn."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9434" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9435" hidden="false" targetId="rule-9004" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9436" hidden="false" targetId="rule-9003" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9437" type="min"/>
+        <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9438" type="max"/>
+      </constraints>
+      <selectionEntries/>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9421" name="Kapricus Defender Main Gun" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9428" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9429" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9422" name="Magna-rail Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9423" name="Magna-rail Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S14. AP3. Multiple Wounds (5): each unsaved wound this weapon causes inflicts 5 further wound(s), no armour/invulnerable save, for 6 total. Keywords: Rending, Heavy."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9424" name="HYLas Rotary Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9425" name="HYLas Rotary Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S6. AP6. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Sustained Hits 1."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9426" name="Twin Magna-coil Autocannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9427" name="Twin Magna-coil Autocannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S7. AP6. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Twin-linked."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="95.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9439" name="Kapricus Carrier" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" type="unit">
+      <profiles>
+        <profile id="prof-9440" name="Kapricus Carrier" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Vehicle (Fly, Skimmer, Transport), M12&quot;. Armour: Front 12, Side 11, Rear 10. Hull Points: 5. Transport capacity: 5 Hernkyn Yaegir models."/>
+      </characteristics></profile>
+        <profile id="prof-9441" name="Scanner Uplinks" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="A unit hit by this model's shooting suffers -1 to hit until your next turn."/>
+      </characteristics></profile>
+<profile id="prof-9442" name="Smoke Launcher" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per game, grant this model a 5+ invulnerable save vs ranged attacks for one turn."/>
+      </characteristics></profile>
+        <profile id="prof-9443" name="Magna-coil Autocannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S7. AP6. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total."/>
+      </characteristics></profile>
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9444" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9445" type="min"/>
+        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9446" type="max"/>
+      </constraints>
+      <selectionEntries/>
+      <selectionEntryGroups></selectionEntryGroups>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="80.0"/></costs>
+    </selectionEntry>
+
+<selectionEntry id="unit-9463" name="Hekaton Land Fortress" book="Leagues of Votann (converted)" page="0" hidden="false" collective="false" categoryEntryId="c888f08a-6cea-4a01-8126-d374a9231554" type="unit">
+      <profiles>
+        <profile id="prof-9464" name="Hekaton Land Fortress" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Super-heavy Vehicle (Walker, Transport), M6&quot; (fixed - standard Walker movement, does not change regardless of damage). Armour: Front 13, Side 12, Rear 10. Hull Points: 11. Transport capacity: 14 Infantry (Exoarmour/Exoframe/Ironkin take 2 spaces; no Artillery)."/>
+      </characteristics></profile>
+        <profile id="prof-9465" name="MultiCOG Targeting" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="May ignore any or all penalties to Ballistic Skill or to the hit roll when shooting."/>
+      </characteristics></profile>
+        
+      </profiles>
+      <rules/>
+      <infoLinks><infoLink id="il-9466" hidden="false" targetId="rule-9002" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink><infoLink id="il-9467" hidden="false" targetId="rule-9004" type="rule"><profiles/><rules/><infoLinks/><modifiers/></infoLink></infoLinks>
+      <modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9468" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="c-9469" type="max"/>
+      </constraints>
+      <selectionEntries/>
+      <selectionEntryGroups><selectionEntryGroup id="grp-9447" name="Hekaton Primary Weapon" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9454" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9455" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9448" name="Cyclic Ion Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9449" name="Cyclic Ion Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S7. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Blast."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9450" name="SP Heavy Conversion Beamer" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9451" name="SP Heavy Conversion Beamer" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 24&quot;. S10. AP5. Multiple Wounds (3): each unsaved wound this weapon causes inflicts 3 further wound(s), no armour/invulnerable save, for 4 total. Keywords: Conversion."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9452" name="Heavy Magna-rail Cannon" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9453" name="Heavy Magna-rail Cannon" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 30&quot;. S18. AP3. Multiple Wounds (9): each unsaved wound this weapon causes inflicts 9 further wound(s), no armour/invulnerable save, for 10 total. Keywords: Rending, Heavy."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup><selectionEntryGroup id="grp-9456" name="Warhead Battery (once-per-game)" hidden="false" collective="false">
+          <profiles/><rules/><infoLinks/><modifiers/>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9461" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9462" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="opt-9457" name="None" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9458" name="None" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: -. S-. AP1."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="opt-9459" name="Hekaton Warhead" hidden="false" collective="false" type="upgrade">
+            <profiles>
+              <profile id="prof-9460" name="Hekaton Warhead" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Range: 36&quot;. S7. AP5. Multiple Wounds (1): each unsaved wound this weapon causes inflicts 1 further wound(s), no armour/invulnerable save, for 2 total. Keywords: Blast, One Shot."/>
+      </characteristics></profile>
+            </profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="25.0"/></costs>
+          </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups/>
+          <entryLinks/>
+        </selectionEntryGroup></selectionEntryGroups>
+      <entryLinks/>
+      <costs><cost name="pts" costTypeId="points" value="420.0"/></costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+<selectionEntryGroup id="grp-9019" name="Warlord Trait (if Warlord, choose 1 or roll D6)" hidden="false" collective="false">
+      <profiles/><rules/><infoLinks/><modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9020" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9021" type="max"/>
+      </constraints>
+      <selectionEntries><selectionEntry id="wt-9007" name="Kindred Hero" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9008" name="Kindred Hero" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="While a friendly Votann unit is within 6&quot; of your Warlord, weapons used by models in that unit re-roll to-hit rolls of 1."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="wt-9009" name="Iron Ambassador" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9010" name="Iron Ambassador" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Ranged weapons equipped by your Warlord that have no AP value instead count as AP6."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="wt-9011" name="Grim Efficiency" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9012" name="Grim Efficiency" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per Command phase, your Warlord may allow a friendly unit within 12&quot; that failed a Morale/Leadership test this turn to immediately re-take it."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="wt-9013" name="Calculated Tenacity" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9014" name="Calculated Tenacity" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Your Warlord and any unit it has joined gain +1 Leadership and count as one additional model when contesting objectives."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="wt-9015" name="Grudge-fuelled Fortitude" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9016" name="Grudge-fuelled Fortitude" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="The first time your Warlord is destroyed, roll a D6 at the end of the phase: on a 2+, set it back up as close as possible to where it died (not within 1&quot; of the enemy) with 1 wound remaining."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="wt-9017" name="Master Armourer" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9018" name="Master Armourer" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Add 4&quot; to the range of all ranged weapons your Warlord is equipped with."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry></selectionEntries>
+      <selectionEntryGroups/><entryLinks/>
+    </selectionEntryGroup>
+<selectionEntryGroup id="grp-9036" name="Votann Relic (optional, max 1 per army)" hidden="false" collective="false">
+      <profiles/><rules/><infoLinks/><modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9037" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9038" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="c-9039" type="max"/>
+      </constraints>
+      <selectionEntries><selectionEntry id="rl-9022" name="Blade of the Ancestors" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9023" name="Blade of the Ancestors" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Melee weapon: Melee, S+2, AP4, causes 2 total wounds. An unmodified hit roll of 6 causes 2 mortal wounds instead and ends the attack sequence. Replaces one melee weapon."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+          </selectionEntry><selectionEntry id="rl-9024" name="Grudge's End" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9025" name="Grudge's End" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Select one bolt weapon the bearer is equipped with: improve its Multiple Wounds tier by 1 step and its AP by 1 tier; it wounds automatically against any unit it has already damaged this battle."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+          </selectionEntry><selectionEntry id="rl-9026" name="The Grey Crest" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9027" name="The Grey Crest" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="If the bearer is a Character, attacks against it suffer -1 to hit. If not, attacks against its unit from more than 12&quot; away suffer -1 to hit."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+          </selectionEntry><selectionEntry id="rl-9028" name="Kâhyrm's War Plate" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9029" name="Kâhyrm's War Plate" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Add 2 to the bearer's Wounds characteristic."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+          </selectionEntry><selectionEntry id="rl-9030" name="Forgestar" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9031" name="Forgestar" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="The bearer's ranged weapons gain +1 AP tier, and an unmodified hit roll of 5+ (not just 6) counts as a critical hit for special-rule purposes."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+          </selectionEntry><selectionEntry id="rl-9032" name="Ymmâ's Shield" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9033" name="Ymmâ's Shield" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Once per battle round, when a save is failed for the bearer, you may instead treat that attack as causing 0 wounds."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+          </selectionEntry><selectionEntry id="rl-9034" name="Thyrikite Plate" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9035" name="Thyrikite Plate" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="+1 to armour saves made for the bearer, and +1 to the bearer's Wounds characteristic."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="10.0"/></costs>
+          </selectionEntry></selectionEntries>
+      <selectionEntryGroups/><entryLinks/>
+    </selectionEntryGroup>
+<selectionEntryGroup id="grp-9052" name="Skeinwrought Discipline (knows Smite + 2 of the below)" hidden="false" collective="false">
+      <profiles/><rules/><infoLinks/><modifiers/>
+      <constraints>
+        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9053" type="min"/>
+        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c-9054" type="max"/>
+      </constraints>
+      <selectionEntries><selectionEntry id="pp-9040" name="Grudgepyre (WC4)" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9041" name="Grudgepyre (WC4)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Witchfire. Target one visible enemy unit within 18&quot; (not Vehicle/Monster/Character). Roll 2D6: if it beats that unit's unmodified Leadership, your opponent removes one model as a casualty."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="pp-9042" name="Ancestral Wrath (WC6)" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9043" name="Ancestral Wrath (WC6)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Witchfire. Target one visible enemy unit within 18&quot; and roll 3 dice (6 dice if it has 11+ models). Each roll of 4+ causes 1 mortal wound."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="pp-9044" name="Fortify (WC6)" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9045" name="Fortify (WC6)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Blessing. Target one friendly Core or Character unit within 12&quot;. Until your next Psychic phase: +1 Toughness, and each time a model in that unit would lose a wound, roll a D6 - on a 6 the wound isn't lost."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="pp-9046" name="Crushing Contempt (WC6)" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9047" name="Crushing Contempt (WC6)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Malediction. Target one enemy unit within 18&quot;. Roll 3D6: if it beats their Leadership, they cannot perform special actions until your next Psychic phase; if it exceeds Leadership, they also suffer -1 to hit until then."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="pp-9048" name="Null Vortex (WC8)" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9049" name="Null Vortex (WC8)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Malediction. Target one enemy unit within 12&quot;. Until your next Psychic phase, models in that unit cannot use invulnerable saves."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry><selectionEntry id="pp-9050" name="Interface Echo (WC5)" hidden="false" collective="false" type="upgrade">
+            <profiles><profile id="prof-9051" name="Interface Echo (WC5)" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82"><profiles/><rules/><infoLinks/><modifiers/><characteristics>
+        <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Blessing, self only. If manifested, gain 1 Command Point (or the army-rule benefit you use in place of CP)."/>
+      </characteristics></profile></profiles>
+            <rules/><infoLinks/><modifiers/><constraints/>
+            <selectionEntries/><selectionEntryGroups/><entryLinks/>
+            <costs><cost name="pts" costTypeId="points" value="0.0"/></costs>
+          </selectionEntry></selectionEntries>
+      <selectionEntryGroups/><entryLinks/>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+  <sharedRules>
+<rule id="rule-9001" name="Short-legged" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>Models with this rule have a 5&quot; Move characteristic instead of the usual 6&quot;. Does not affect Run, Charge, or any other move governed by other rules.</description>
+  </rule>
+<rule id="rule-9002" name="Votann" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>All models in this codex have the Votann special rule: once per game, a unit with this rule that would fall back from combat may instead remain locked in combat and fight as if it were the assault phase (Stubborn).</description>
+  </rule>
+<rule id="rule-9003" name="Sustained Hits (X)" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>A weapon with this rule generates X additional automatic hits each time an unmodified hit roll of 6 is made for it, on top of the hit already scored. These bonus hits go straight to the wound roll, skipping the hit roll.</description>
+  </rule>
+<rule id="rule-9004" name="Rending" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>A model with this special rule that makes an attack (shooting or close combat) which scores an unmodified roll of 6 To Wound automatically wounds the target and that attack is resolved at AP2, regardless of what AP the weapon normally has. (Replaces all references to the 10th Edition 'Devastating Wounds' keyword, per house-rule decision.)</description>
+  </rule>
+<rule id="rule-9005" name="Hostile Acquisition" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>At the start of each Game Turn, each Votann unit that does not control an objective marker gains this rule until the start of the next Game Turn: each time a model in this unit makes an attack that targets an enemy unit within range of an objective marker, add 1 to the hit roll. You can re-roll failed Run and charge rolls made for this unit.</description>
+  </rule>
+<rule id="rule-9006" name="Fortify Takeover" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>At the start of each Game Turn, each Votann unit that controls an objective marker gains this rule until the start of the next Game Turn: each time a model in this unit makes an attack, if this unit is within range of an objective marker it controls, add 1 to the hit roll. Each time this unit is attacked by a model with a higher Strength than this unit's Toughness (this unit is not a Vehicle), subtract 1 from the wound roll.</description>
+  </rule>
+<rule id="rule-9055" name="Formation: Firebase Kindred" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>If your army includes 2 or more Einhyr Hearthguard or Hearthkyn Warriors units and one Brôkhyr Iron-master, every Votann unit in your army fires Overwatch on unmodified hit rolls of 5+ instead of the usual 6+.</description>
+  </rule>
+<rule id="rule-9056" name="Formation: Grudge-bound Vanguard" book="Leagues of Votann (converted)" page="0" hidden="false">
+    <profiles/><rules/><infoLinks/><modifiers/>
+    <description>If your army includes 2 or more Elites choices and one Einhyr Champion or Berehk Stornbröw, models in Elites units gain the Fleet special rule (re-roll failed Run and charge distance rolls), and re-roll failed to-hit rolls in the first round of any combat they charged into.</description>
+  </rule>
+  </sharedRules>
+  <sharedProfiles/>
+</catalogue>
