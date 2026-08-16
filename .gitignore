@@ -5,3 +5,4 @@
 # Don't ignore catalogues and game system
 !*.cat
 !*.gst
+!*.md

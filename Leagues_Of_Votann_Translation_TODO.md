@@ -1,0 +1,722 @@
+# Translation report -- Leagues of Votann
+
+- source: `wh40k-10e/Leagues of Votann.cat`
+- target: `M40GA/Leagues of Votann - Codex.cat` (id `9a1c-b5e2-40c7-8fda`, revision 4)
+- output: `out/Leagues of Votann - Codex.cat`
+- validation: PASSED
+
+Points are carried over from 10e unchanged and all wargear is zeroed;
+they are not converted 7th edition costs.
+
+## 10e-only structures dropped (187)
+
+- Ûthar the Destined: Crusade (selectionEntryGroup)
+- Hearthkyn Warriors: Weapon Modifications (entryLink)
+- Hearthkyn Warriors: Weapon Modifications (entryLink)
+- Hearthkyn Warriors: Weapon Modifications (entryLink)
+- Hearthkyn Warriors: Weapon Modifications (entryLink)
+- Hearthkyn Warriors: Weapon Modifications (entryLink)
+- Hearthkyn Warriors: Weapon Modifications (entryLink)
+- Hearthkyn Warriors: Crusade (entryLink)
+- Kâhl: Weapon Modifications (entryLink)
+- Kâhl: Weapon Modifications (entryLink)
+- Kâhl: Enhancements (entryLink)
+- Kâhl: Crusade (entryLink)
+- Einhyr Champion: Weapon Modifications (entryLink)
+- Einhyr Champion: Weapon Modifications (entryLink)
+- Einhyr Champion: Enhancements (entryLink)
+- Einhyr Champion: Crusade (entryLink)
+- Grimnyr: Weapon Modifications (entryLink)
+- Grimnyr: Weapon Modifications (entryLink)
+- Grimnyr: Enhancements (entryLink)
+- Grimnyr: Crusade (entryLink)
+- Brôkhyr Iron-master: Weapon Modifications (entryLink)
+- Brôkhyr Iron-master: Weapon Modifications (entryLink)
+- Brôkhyr Iron-master: Enhancements (entryLink)
+- Brôkhyr Iron-master: Crusade (entryLink)
+- Einhyr Hearthguard: Weapon Modifications (entryLink)
+- Einhyr Hearthguard: Weapon Modifications (entryLink)
+- Einhyr Hearthguard: Weapon Modifications (entryLink)
+- Einhyr Hearthguard: Weapon Modifications (entryLink)
+- Einhyr Hearthguard: Weapon Modifications (entryLink)
+- Einhyr Hearthguard: Weapon Modifications (entryLink)
+- Einhyr Hearthguard: Crusade (entryLink)
+- Cthonian Beserks: Weapon Modifications (entryLink)
+- Cthonian Beserks: Weapon Modifications (entryLink)
+- Cthonian Beserks: Weapon Modifications (entryLink)
+- Cthonian Beserks: Weapon Modifications (entryLink)
+- Cthonian Beserks: Weapon Modifications (entryLink)
+- Cthonian Beserks: Weapon Modifications (entryLink)
+- Cthonian Beserks: Crusade (entryLink)
+- Hernkyn Pioneers: Weapon Modifications (entryLink)
+- Hernkyn Pioneers: Weapon Modifications (entryLink)
+- Hernkyn Pioneers: Crusade (entryLink)
+- Sagitaur: Weapon Modifications (entryLink)
+- Sagitaur: Weapon Modifications (entryLink)
+- Sagitaur: Weapon Modifications (entryLink)
+- Sagitaur: Weapon Modifications (entryLink)
+- Sagitaur: Crusade (entryLink)
+- Brôkhyr Thunderkyn: Weapon Modifications (entryLink)
+- Brôkhyr Thunderkyn: Weapon Modifications (entryLink)
+- Brôkhyr Thunderkyn: Weapon Modifications (entryLink)
+- Brôkhyr Thunderkyn: Weapon Modifications (entryLink)
+- Brôkhyr Thunderkyn: Crusade (entryLink)
+- Hekaton Land Fortress: Weapon Modifications (entryLink)
+- Hekaton Land Fortress: Weapon Modifications (entryLink)
+- Hekaton Land Fortress: Weapon Modifications (entryLink)
+- Hekaton Land Fortress: Weapon Modifications (entryLink)
+- Hekaton Land Fortress: Weapon Modifications (entryLink)
+- Hekaton Land Fortress: Weapon Modifications (entryLink)
+- Hekaton Land Fortress: Crusade (entryLink)
+- Hernkyn Yaegirs: Weapon Modifications (entryLink)
+- Hernkyn Yaegirs: Weapon Modifications (entryLink)
+- Hernkyn Yaegirs: Weapon Modifications (entryLink)
+- Hernkyn Yaegirs: Weapon Modifications (entryLink)
+- Hernkyn Yaegirs: Weapon Modifications (entryLink)
+- Hernkyn Yaegirs: Weapon Modifications (entryLink)
+- Hernkyn Yaegirs: Crusade (entryLink)
+- Buri Aegnirssen: Crusade (selectionEntryGroup)
+- Memnyr Strategist: Weapon Modifications (entryLink)
+- Memnyr Strategist: Weapon Modifications (entryLink)
+- Memnyr Strategist: Crusade (entryLink)
+- Memnyr Strategist: Enhancements (entryLink)
+- Arkanyst Evaluator: Weapon Modifications (entryLink)
+- Arkanyst Evaluator: Weapon Modifications (entryLink)
+- Arkanyst Evaluator: Crusade (entryLink)
+- Arkanyst Evaluator: Enhancements (entryLink)
+- Kapricus Defenders: Weapon Modifications (entryLink)
+- Kapricus Defenders: Weapon Modifications (entryLink)
+- Kapricus Defenders: Weapon Modifications (entryLink)
+- Kapricus Defenders: Weapon Modifications (entryLink)
+- Kapricus Defenders: Crusade (entryLink)
+- Kapricus Carrier: Weapon Modifications (entryLink)
+- Kapricus Carrier: Weapon Modifications (entryLink)
+- Kapricus Carrier: Weapon Modifications (entryLink)
+- Kapricus Carrier: Crusade (entryLink)
+- Ironkin Steeljacks with Heavy Volkanite Disintegrators: Crusade (entryLink)
+- Ironkin Steeljacks with Melee Weapons: Crusade (entryLink)
+- Cthonian Earthshakers: Weapon Modifications (entryLink)
+- Cthonian Earthshakers: Weapon Modifications (entryLink)
+- Cthonian Earthshakers: Weapon Modifications (entryLink)
+- Cthonian Earthshakers: Weapon Modifications (entryLink)
+- Cthonian Earthshakers: Crusade (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Crusade (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Living Ancestor [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Crusade (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Kinhost Commander [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Crusade (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Steeljack Elder [Crucible]: Weapon Modifications (entryLink)
+- Berehk Stornbröw: Crusade (selectionEntryGroup)
+
+## Abilities referencing 10e-only rules (147)
+
+- **Ûthar the Destined** / Grim Efficiency -- mentions Stratagem
+- **Ûthar the Destined** / Leader -- mentions Bodyguard, Leader
+- **Ûthar the Destined** / Prioritised Efficiency -- mentions Command phase
+- **Ûthar the Destined** / Guerrilla Adepts -- mentions Stratagem
+- **Ûthar the Destined** / Devastating Wounds -- mentions Devastating Wounds
+- **Ûthar the Destined** / Devastating Wounds -- mentions Devastating Wounds
+- **Hearthkyn Warriors** / Luck Has, Need Keeps, Toil Earns -- mentions Command phase
+- **Hearthkyn Warriors** / Prioritised Efficiency -- mentions Command phase
+- **Hearthkyn Warriors** / Guerrilla Adepts -- mentions Stratagem
+- **Hearthkyn Warriors** / Feel No Pain -- mentions Feel No Pain
+- **Hearthkyn Warriors** / Sustained Hits -- mentions Sustained Hits
+- **Hearthkyn Warriors** / Devastating Wounds -- mentions Devastating Wounds
+- **Hearthkyn Warriors** / Sustained Hits -- mentions Sustained Hits
+- **Kâhl** / Kindred Hero -- mentions Lethal Hits
+- **Kâhl** / Prioritised Efficiency -- mentions Command phase
+- **Kâhl** / Leader -- mentions Bodyguard, Leader
+- **Kâhl** / Guerrilla Adepts -- mentions Stratagem
+- **Kâhl** / Devastating Wounds -- mentions Devastating Wounds
+- **Einhyr Champion** / Prioritised Efficiency -- mentions Command phase
+- **Einhyr Champion** / Leader -- mentions Bodyguard, Leader
+- **Einhyr Champion** / Guerrilla Adepts -- mentions Stratagem
+- **Grimnyr** / Fortify (Psychic) -- mentions Feel No Pain
+- **Grimnyr** / Grimnyr's Regard -- mentions Battle-shock
+- **Grimnyr** / Prioritised Efficiency -- mentions Command phase
+- **Grimnyr** / Leader -- mentions Bodyguard, Leader
+- **Grimnyr** / Guerrilla Adepts -- mentions Stratagem
+- **Grimnyr** / Hazardous -- mentions Stratagem
+- **Brôkhyr Iron-master** / Brôkhyr Guild Support -- mentions Lone Operative
+- **Brôkhyr Iron-master** / Leader -- mentions Bodyguard, Leader
+- **Brôkhyr Iron-master** / Prioritised Efficiency -- mentions Command phase
+- **Brôkhyr Iron-master** / Guerrilla Adepts -- mentions Stratagem
+- **Einhyr Hearthguard** / Prioritised Efficiency -- mentions Command phase
+- **Einhyr Hearthguard** / Guerrilla Adepts -- mentions Stratagem
+- **Einhyr Hearthguard** / Devastating Wounds -- mentions Devastating Wounds
+- **Einhyr Hearthguard** / Devastating Wounds -- mentions Devastating Wounds
+- **Cthonian Beserks** / Prioritised Efficiency -- mentions Command phase
+- **Cthonian Beserks** / Feel No Pain -- mentions Feel No Pain
+- **Cthonian Beserks** / Guerrilla Adepts -- mentions Stratagem
+- **Cthonian Beserks** / Subterranean Explosives -- mentions Stratagem
+- **Hernkyn Pioneers** / Prioritised Efficiency -- mentions Command phase
+- **Hernkyn Pioneers** / Scouts -- mentions Scouts
+- **Hernkyn Pioneers** / Guerrilla Adepts -- mentions Stratagem
+- **Hernkyn Pioneers** / Comms array -- mentions Stratagem
+- **Hernkyn Pioneers** / Sustained Hits -- mentions Sustained Hits
+- **Hernkyn Pioneers** / Sustained Hits -- mentions Sustained Hits
+- **Sagitaur** / Prioritised Efficiency -- mentions Command phase
+- **Sagitaur** / Deadly Demise -- mentions Deadly Demise
+- **Sagitaur** / Guerrilla Adepts -- mentions Stratagem
+- **Sagitaur** / Firebase Control (Aura) -- mentions Sustained Hits
+- **Sagitaur** / Sustained Hits -- mentions Sustained Hits
+- **Sagitaur** / Sustained Hits -- mentions Sustained Hits
+- **Brôkhyr Thunderkyn** / Prioritised Efficiency -- mentions Command phase
+- **Brôkhyr Thunderkyn** / Guerrilla Adepts -- mentions Stratagem
+- **Brôkhyr Thunderkyn** / Sustained Hits -- mentions Sustained Hits
+- **Brôkhyr Thunderkyn** / Lethal Hits -- mentions Lethal Hits
+- **Hekaton Land Fortress** / Prioritised Efficiency -- mentions Command phase
+- **Hekaton Land Fortress** / Deadly Demise -- mentions Deadly Demise
+- **Hekaton Land Fortress** / Guerrilla Adepts -- mentions Stratagem
+- **Hekaton Land Fortress** / Firebase Control (Aura) -- mentions Sustained Hits
+- **Hekaton Land Fortress** / Lethal Hits -- mentions Lethal Hits
+- **Hekaton Land Fortress** / Devastating Wounds -- mentions Devastating Wounds
+- **Hekaton Land Fortress** / Sustained Hits -- mentions Sustained Hits
+- **Hekaton Land Fortress** / Sustained Hits -- mentions Sustained Hits
+- **Hernkyn Yaegirs** / Prioritised Efficiency -- mentions Command phase
+- **Hernkyn Yaegirs** / Guerrilla Adepts -- mentions Stratagem
+- **Buri Aegnirssen** / Unhinged Vengeance -- mentions Battle-shock
+- **Buri Aegnirssen** / Prioritised Efficiency -- mentions Command phase
+- **Buri Aegnirssen** / Guerrilla Adepts -- mentions Stratagem
+- **Memnyr Strategist** / Computational Mastermind -- mentions Command phase
+- **Memnyr Strategist** / Predictive Guidance -- mentions Stratagem
+- **Memnyr Strategist** / Prioritised Efficiency -- mentions Command phase
+- **Memnyr Strategist** / Leader -- mentions Bodyguard, Leader
+- **Memnyr Strategist** / Guerrilla Adepts -- mentions Stratagem
+- **Arkanyst Evaluator** / Science Guild Support -- mentions Lone Operative
+- **Arkanyst Evaluator** / Resource Transmutation -- mentions Sustained Hits
+- **Arkanyst Evaluator** / Prioritised Efficiency -- mentions Command phase
+- **Arkanyst Evaluator** / Deadly Demise -- mentions Deadly Demise
+- **Arkanyst Evaluator** / Guerrilla Adepts -- mentions Stratagem
+- **Arkanyst Evaluator** / Hazardous -- mentions Stratagem
+- **Kapricus Defenders** / Prioritised Efficiency -- mentions Command phase
+- **Kapricus Defenders** / Scouts -- mentions Scouts
+- **Kapricus Defenders** / Deadly Demise -- mentions Deadly Demise
+- **Kapricus Defenders** / Guerrilla Adepts -- mentions Stratagem
+- **Kapricus Defenders** / Devastating Wounds -- mentions Devastating Wounds
+- **Kapricus Defenders** / Sustained Hits -- mentions Sustained Hits
+- **Kapricus Carrier** / Deadly Demise -- mentions Deadly Demise
+- **Kapricus Carrier** / Firing Deck -- mentions Firing Deck
+- **Kapricus Carrier** / Scouts -- mentions Scouts
+- **Kapricus Carrier** / Prioritised Efficiency -- mentions Command phase
+- **Kapricus Carrier** / Guerrilla Adepts -- mentions Stratagem
+- **Kapricus Carrier** / Firebase Control (Aura) -- mentions Sustained Hits
+- **Ironkin Steeljacks with Heavy Volkanite Disintegrators** / Purge Response -- mentions Stratagem
+- **Ironkin Steeljacks with Heavy Volkanite Disintegrators** / Guerrilla Adepts -- mentions Stratagem
+- **Ironkin Steeljacks with Heavy Volkanite Disintegrators** / Prioritised Efficiency -- mentions Command phase
+- **Ironkin Steeljacks with Heavy Volkanite Disintegrators** / Devastating Wounds -- mentions Devastating Wounds
+- **Ironkin Steeljacks with Heavy Volkanite Disintegrators** / Sustained Hits -- mentions Sustained Hits
+- **Ironkin Steeljacks with Heavy Volkanite Disintegrators** / Devastating Wounds -- mentions Devastating Wounds
+- **Ironkin Steeljacks with Melee Weapons** / Merciless Eradication -- mentions Battle-shock
+- **Ironkin Steeljacks with Melee Weapons** / Guerrilla Adepts -- mentions Stratagem
+- **Ironkin Steeljacks with Melee Weapons** / Prioritised Efficiency -- mentions Command phase
+- **Ironkin Steeljacks with Melee Weapons** / Sustained Hits -- mentions Sustained Hits
+- **Ironkin Steeljacks with Melee Weapons** / Lethal Hits -- mentions Lethal Hits
+- **Ironkin Steeljacks with Melee Weapons** / Lethal Hits -- mentions Lethal Hits
+- **Ironkin Steeljacks with Melee Weapons** / Sustained Hits -- mentions Sustained Hits
+- **Cthonian Earthshakers** / Prioritised Efficiency -- mentions Command phase
+- **Cthonian Earthshakers** / Guerrilla Adepts -- mentions Stratagem
+- **Cthonian Earthshakers** / Destabilising Quakes -- mentions Battle-shock
+- **Living Ancestor [Crucible]** / Grimnyr's Regard -- mentions Battle-shock
+- **Living Ancestor [Crucible]** / Leader -- mentions Bodyguard, Leader
+- **Living Ancestor [Crucible]** / Prioritised Efficiency -- mentions Command phase
+- **Living Ancestor [Crucible]** / Feel No Pain -- mentions Feel No Pain
+- **Living Ancestor [Crucible]** / Scouts -- mentions Scouts
+- **Living Ancestor [Crucible]** / Kindred Hero -- mentions Lethal Hits
+- **Living Ancestor [Crucible]** / Hazardous -- mentions Stratagem
+- **Living Ancestor [Crucible]** / Sustained Hits -- mentions Sustained Hits
+- **Living Ancestor [Crucible]** / Devastating Wounds -- mentions Devastating Wounds
+- **Living Ancestor [Crucible]** / Lethal Hits -- mentions Lethal Hits
+- **Living Ancestor [Crucible]** / Devastating Wounds -- mentions Devastating Wounds
+- **Living Ancestor [Crucible]** / Lethal Hits -- mentions Lethal Hits
+- **Kinhost Commander [Crucible]** / Leader -- mentions Bodyguard, Leader
+- **Kinhost Commander [Crucible]** / Prioritised Efficiency -- mentions Command phase
+- **Kinhost Commander [Crucible]** / Feel No Pain -- mentions Feel No Pain
+- **Kinhost Commander [Crucible]** / Scouts -- mentions Scouts
+- **Kinhost Commander [Crucible]** / Kindred Hero -- mentions Lethal Hits
+- **Kinhost Commander [Crucible]** / Hazardous -- mentions Stratagem
+- **Kinhost Commander [Crucible]** / Sustained Hits -- mentions Sustained Hits
+- **Kinhost Commander [Crucible]** / Devastating Wounds -- mentions Devastating Wounds
+- **Kinhost Commander [Crucible]** / Lethal Hits -- mentions Lethal Hits
+- **Kinhost Commander [Crucible]** / Devastating Wounds -- mentions Devastating Wounds
+- **Kinhost Commander [Crucible]** / Lethal Hits -- mentions Lethal Hits
+- **Steeljack Elder [Crucible]** / Leader -- mentions Bodyguard, Leader
+- **Steeljack Elder [Crucible]** / Prioritised Efficiency -- mentions Command phase
+- **Steeljack Elder [Crucible]** / Feel No Pain -- mentions Feel No Pain
+- **Steeljack Elder [Crucible]** / Scouts -- mentions Scouts
+- **Steeljack Elder [Crucible]** / Kindred Hero -- mentions Lethal Hits
+- **Steeljack Elder [Crucible]** / Hazardous -- mentions Stratagem
+- **Steeljack Elder [Crucible]** / Sustained Hits -- mentions Sustained Hits
+- **Steeljack Elder [Crucible]** / Devastating Wounds -- mentions Devastating Wounds
+- **Steeljack Elder [Crucible]** / Lethal Hits -- mentions Lethal Hits
+- **Steeljack Elder [Crucible]** / Devastating Wounds -- mentions Devastating Wounds
+- **Steeljack Elder [Crucible]** / Lethal Hits -- mentions Lethal Hits
+- **Berehk Stornbröw** / Break the Foe -- mentions Sustained Hits
+- **Berehk Stornbröw** / Relentless Avalanche -- mentions Stratagem
+- **Berehk Stornbröw** / Prioritised Efficiency -- mentions Command phase
+- **Berehk Stornbröw** / Leader -- mentions Bodyguard, Leader
+- **Berehk Stornbröw** / Feel No Pain -- mentions Feel No Pain
+- **Berehk Stornbröw** / Sustained Hits -- mentions Sustained Hits
+
+## Constraints on 10e-only fields dropped (22)
+
+- Hearthkyn Warriors: Hearthkyn Warriors -- 3
+- Kâhl: Kâhl -- 3
+- Einhyr Champion: Einhyr Champion -- 3
+- Grimnyr: Grimnyr -- 3
+- Brôkhyr Iron-master: Brôkhyr Iron-master -- 3
+- Einhyr Hearthguard: Einhyr Hearthguard -- 3
+- Cthonian Beserks: Cthonian Beserks -- 3
+- Hernkyn Pioneers: Hernkyn Pioneers -- 3
+- Sagitaur: Sagitaur -- 3
+- Brôkhyr Thunderkyn: Brôkhyr Thunderkyn -- 3
+- Hekaton Land Fortress: Hekaton Land Fortress -- 3
+- Hernkyn Yaegirs: Hernkyn Yaegirs -- 3
+- Memnyr Strategist: Memnyr Strategist -- 3
+- Arkanyst Evaluator: Arkanyst Evaluator -- 3
+- Kapricus Defenders: Kapricus Defenders -- 3
+- Kapricus Carrier: Kapricus Carrier -- 3
+- Ironkin Steeljacks with Heavy Volkanite Disintegrators: Ironkin Steeljacks with Heavy Volkanite Disintegrators -- 3
+- Ironkin Steeljacks with Melee Weapons: Ironkin Steeljacks with Melee Weapons -- 3
+- Cthonian Earthshakers: Cthonian Earthshakers -- 3
+- Living Ancestor [Crucible]: Living Ancestor [Crucible] -- 3
+- Kinhost Commander [Crucible]: Kinhost Commander [Crucible] -- 3
+- Steeljack Elder [Crucible]: Steeljack Elder [Crucible] -- 3
+
+## Damage converted to Multiple Wounds (111)
+
+- Blade of the Ancestors: D2 -> Multiple Wounds
+- Theyn's melee weapon: D2 -> Multiple Wounds
+- ➤ L7 missile launcher - focused: DD6 -> Multiple Wounds
+- Magna-rail rifle: DD3+3 -> Multiple Wounds
+- EtaCarn plasma beamer: D2 -> Multiple Wounds
+- Mass gauntlet: D3 -> Multiple Wounds
+- Forgewrought plasma axe: D2 -> Multiple Wounds
+- Mass hammer: DD6+1 -> Multiple Wounds
+- Darkstar axe: D2 -> Multiple Wounds
+- Ancestral ward stave: DD3 -> Multiple Wounds
+- ➤ Ancestral Wrath - witchfire: DD3 -> Multiple Wounds
+- ➤ Ancestral Wrath - focused witchfire: DD3 -> Multiple Wounds
+- Graviton hammer: D3 -> Multiple Wounds
+- Graviton rifle: D3 -> Multiple Wounds
+- Plasma torch: D2 -> Multiple Wounds
+- EtaCarn plasma gun: D2 -> Multiple Wounds
+- Concussion gauntlet: D2 -> Multiple Wounds
+- Graviton hammer: D3 -> Multiple Wounds
+- EtaCarn plasma gun: D2 -> Multiple Wounds
+- Concussion gauntlet: D2 -> Multiple Wounds
+- Concussion maul: D3 -> Multiple Wounds
+- Heavy plasma axe: D3 -> Multiple Wounds
+- Twin concussion gauntlets: D2 -> Multiple Wounds
+- Concussion maul: D3 -> Multiple Wounds
+- Heavy plasma axe: D3 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- HYLas beam cannon: DD6+1 -> Multiple Wounds
+- Sagitaur missile launcher: D3 -> Multiple Wounds
+- ➤ L7 missile launcher - focused: DD6 -> Multiple Wounds
+- MATR autocannon: D2 -> Multiple Wounds
+- Twin bolt cannon: D2 -> Multiple Wounds
+- Bolt cannon: D2 -> Multiple Wounds
+- Graviton blast cannon: D3 -> Multiple Wounds
+- SP conversion beamer: D3 -> Multiple Wounds
+- SP heavy conversion beamer: D4 -> Multiple Wounds
+- Heavy magna-rail cannon: DD6+4 -> Multiple Wounds
+- Cyclic ion cannon: D2 -> Multiple Wounds
+- Twin bolt cannon: D2 -> Multiple Wounds
+- Hekaton warhead: D2 -> Multiple Wounds
+- MATR autocannon: D2 -> Multiple Wounds
+- APM launcher: DD6 -> Multiple Wounds
+- Magna-coil rifle: D2 -> Multiple Wounds
+- ➤ Bane - strike: D3 -> Multiple Wounds
+- ➤ Transmatter inverter - full charge: D2 -> Multiple Wounds
+- ➤ Transmatter inverter - overcharge: D3 -> Multiple Wounds
+- Magna-rail cannon : DD3+3 -> Multiple Wounds
+- HYLas rotary cannon: D2 -> Multiple Wounds
+- Twin magna-coil autocannon: D2 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- Twin magna-coil autocannon: D2 -> Multiple Wounds
+- Concussion gauntlet: D2 -> Multiple Wounds
+- Concussion gauntlet: D2 -> Multiple Wounds
+- Breacher ordnance: D2 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- ➤ Ancestral Wrath - witchfire: DD3 -> Multiple Wounds
+- ➤ Ancestral Wrath - focused witchfire: DD3 -> Multiple Wounds
+- Graviton blast cannon: D3 -> Multiple Wounds
+- EtaCarn plasma gun: D2 -> Multiple Wounds
+- Bolt cannon: D2 -> Multiple Wounds
+- Graviton rifle: D3 -> Multiple Wounds
+- SP conversion beamer: D3 -> Multiple Wounds
+- Ancestral ward stave: DD3 -> Multiple Wounds
+- Concussion gauntlet: D2 -> Multiple Wounds
+- Concussion maul: D3 -> Multiple Wounds
+- Darkstar axe: D2 -> Multiple Wounds
+- Forgewrought plasma axe: D2 -> Multiple Wounds
+- Graviton hammer: D3 -> Multiple Wounds
+- Heavy plasma axe: D3 -> Multiple Wounds
+- Mass gauntlet: D3 -> Multiple Wounds
+- Mass hammer: DD6+1 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- ➤ Ancestral Wrath - witchfire: DD3 -> Multiple Wounds
+- ➤ Ancestral Wrath - focused witchfire: DD3 -> Multiple Wounds
+- Graviton blast cannon: D3 -> Multiple Wounds
+- EtaCarn plasma gun: D2 -> Multiple Wounds
+- Bolt cannon: D2 -> Multiple Wounds
+- Graviton rifle: D3 -> Multiple Wounds
+- SP conversion beamer: D3 -> Multiple Wounds
+- Ancestral ward stave: DD3 -> Multiple Wounds
+- Concussion gauntlet: D2 -> Multiple Wounds
+- Concussion maul: D3 -> Multiple Wounds
+- Darkstar axe: D2 -> Multiple Wounds
+- Forgewrought plasma axe: D2 -> Multiple Wounds
+- Graviton hammer: D3 -> Multiple Wounds
+- Heavy plasma axe: D3 -> Multiple Wounds
+- Mass gauntlet: D3 -> Multiple Wounds
+- Mass hammer: DD6+1 -> Multiple Wounds
+- Magna-coil autocannon: D2 -> Multiple Wounds
+- ➤ Ancestral Wrath - witchfire: DD3 -> Multiple Wounds
+- ➤ Ancestral Wrath - focused witchfire: DD3 -> Multiple Wounds
+- Graviton blast cannon: D3 -> Multiple Wounds
+- EtaCarn plasma gun: D2 -> Multiple Wounds
+- Bolt cannon: D2 -> Multiple Wounds
+- Graviton rifle: D3 -> Multiple Wounds
+- SP conversion beamer: D3 -> Multiple Wounds
+- Ancestral ward stave: DD3 -> Multiple Wounds
+- Concussion gauntlet: D2 -> Multiple Wounds
+- Concussion maul: D3 -> Multiple Wounds
+- Darkstar axe: D2 -> Multiple Wounds
+- Forgewrought plasma axe: D2 -> Multiple Wounds
+- Graviton hammer: D3 -> Multiple Wounds
+- Heavy plasma axe: D3 -> Multiple Wounds
+- Mass gauntlet: D3 -> Multiple Wounds
+- Mass hammer: DD6+1 -> Multiple Wounds
+- ➤ Kromlôk's Revenge - graviton strikes: D4 -> Multiple Wounds
+- ➤ Kromlôk's Revenge - plasma sweeps: D2 -> Multiple Wounds
+
+## Modifiers dropped (23)
+
+- Hearthkyn Warriors: 11 modifiers/conditions
+- Kâhl: 7 modifiers/conditions
+- Einhyr Champion: 7 modifiers/conditions
+- Grimnyr: 9 modifiers/conditions
+- Brôkhyr Iron-master: 13 modifiers/conditions
+- Einhyr Hearthguard: 21 modifiers/conditions
+- Cthonian Beserks: 25 modifiers/conditions
+- Hernkyn Pioneers: 11 modifiers/conditions
+- Sagitaur: 9 modifiers/conditions
+- Brôkhyr Thunderkyn: 12 modifiers/conditions
+- Hekaton Land Fortress: 9 modifiers/conditions
+- Hernkyn Yaegirs: 18 modifiers/conditions
+- Memnyr Strategist: 7 modifiers/conditions
+- Arkanyst Evaluator: 8 modifiers/conditions
+- Kapricus Defenders: 10 modifiers/conditions
+- Kapricus Carrier: 11 modifiers/conditions
+- Ironkin Steeljacks with Heavy Volkanite Disintegrators: 9 modifiers/conditions
+- Ironkin Steeljacks with Melee Weapons: 9 modifiers/conditions
+- Cthonian Earthshakers: 8 modifiers/conditions
+- Living Ancestor [Crucible]: 12 modifiers/conditions
+- Kinhost Commander [Crucible]: 12 modifiers/conditions
+- Steeljack Elder [Crucible]: 12 modifiers/conditions
+- Berehk Stornbröw: 1 modifiers/conditions
+
+## Units translated (25)
+
+- Ûthar the Destined -> HQ (Unit profile)
+- Hearthkyn Warriors -> Troops (Unit profile)
+- Kâhl -> HQ (Unit profile)
+- Einhyr Champion -> HQ (Unit profile)
+- Grimnyr -> HQ (Unit profile)
+- Brôkhyr Iron-master -> HQ (Unit profile)
+- Einhyr Hearthguard -> Elites (Unit profile)
+- Cthonian Beserks -> Elites (Unit profile)
+- Hernkyn Pioneers -> Fast Attack (Unit profile)
+- Sagitaur -> No Force Org Slot (Vehicle profile)
+- Brôkhyr Thunderkyn -> Elites (Unit profile)
+- Hekaton Land Fortress -> Heavy Support (Vehicle profile)
+- Hernkyn Yaegirs -> Elites (Unit profile)
+- Buri Aegnirssen -> HQ (Unit profile)
+- Memnyr Strategist -> HQ (Unit profile)
+- Arkanyst Evaluator -> HQ (Unit profile)
+- Kapricus Defenders -> Heavy Support (Vehicle profile)
+- Kapricus Carrier -> No Force Org Slot (Vehicle profile)
+- Ironkin Steeljacks with Heavy Volkanite Disintegrators -> Elites (Unit profile)
+- Ironkin Steeljacks with Melee Weapons -> Elites (Unit profile)
+- Cthonian Earthshakers -> Heavy Support (Unit profile)
+- Living Ancestor [Crucible] -> HQ (Unit profile)
+- Kinhost Commander [Crucible] -> HQ (Unit profile)
+- Steeljack Elder [Crucible] -> HQ (Unit profile)
+- Berehk Stornbröw -> HQ (Unit profile)
+
+## Unmapped 10e weapon keywords (177)
+
+- Close combat weapon: -
+- Theyn's melee weapon: -
+- Autoch-pattern bolter: -
+- Ion blaster: -
+- Close combat weapon: -
+- Autoch-pattern bolter: -
+- Close combat weapon: -
+- Ion blaster: -
+- Close combat weapon: -
+- Plasma knife: -
+- Close combat weapon: -
+- Close combat weapon: -
+- Close combat weapon: -
+- ➤ L7 missile launcher - focused: -
+- Close combat weapon: -
+- Close combat weapon: -
+- Mass gauntlet: -
+- Forgewrought plasma axe: -
+- Autoch-pattern combi-bolter: -
+- Mass hammer: -
+- Darkstar axe: -
+- Autoch-pattern combi-bolter: -
+- Ancestral ward stave: Psychic
+- ➤ Ancestral Wrath - witchfire: Psychic
+- ➤ Ancestral Wrath - focused witchfire: Hazardous
+- ➤ Ancestral Wrath - focused witchfire: Psychic
+- Autoch-pattern bolter: -
+- Close combat weapon: -
+- Graviton hammer: Anti-MONSTER 3+
+- Graviton hammer: Anti-VEHICLE 3+
+- Graviton rifle: Anti-MONSTER 3+
+- Graviton rifle: Anti-VEHICLE 3+
+- Close combat weapon: -
+- Plasma torch: -
+- Manipulator arms: -
+- Las-beam cutter: -
+- Close combat weapon: -
+- Concussion gauntlet: -
+- Plasma blade gauntlet: -
+- Graviton hammer: Anti-MONSTER 3+
+- Graviton hammer: Anti-VEHICLE 3+
+- Concussion gauntlet: -
+- Plasma blade gauntlet: -
+- Concussion maul: Anti-MONSTER 3+
+- Concussion maul: Anti-VEHICLE 3+
+- Heavy plasma axe: -
+- Mole grenade launcher: Indirect Fire
+- Concussion maul: Anti-MONSTER 3+
+- Concussion maul: Anti-VEHICLE 3+
+- Heavy plasma axe: -
+- Magna-coil autocannon: -
+- Plasma knife: -
+- Magna-coil autocannon: -
+- Plasma knife: -
+- Magna-coil autocannon: -
+- Plasma knife: -
+- Magna-coil autocannon: -
+- Plasma knife: -
+- Magna-coil autocannon: -
+- Plasma knife: -
+- Magna-coil autocannon: -
+- Plasma knife: -
+- Armoured wheels: -
+- HYLas beam cannon: -
+- Sagitaur missile launcher: -
+- ➤ L7 missile launcher - focused: -
+- Close combat weapon: -
+- Graviton blast cannon: Anti-MONSTER 3+
+- Graviton blast cannon: Anti-VEHICLE 3+
+- SP conversion beamer: Conversion
+- Armoured wheels: -
+- SP heavy conversion beamer: Conversion
+- Hekaton warhead: One Shot
+- Close combat weapon: -
+- APM launcher: Anti-MONSTER 3+
+- APM launcher: Anti-VEHICLE 3+
+- Close combat weapon: -
+- Close combat weapon: -
+- Plasma knife: -
+- Close combat weapon: -
+- Plasma knife: -
+- Close combat weapon: -
+- ➤ Bane - sweep: -
+- Close combat weapon: -
+- ➤ Transmatter inverter - full charge: Hazardous
+- ➤ Transmatter inverter - overcharge: Hazardous
+- ➤ Transmatter inverter - overcharge: Overcharge
+- Close combat weapon: -
+- Armoured hull: -
+- Magna-coil autocannon: -
+- Armoured hull: -
+- Plasma knife: -
+- Plasma knife: -
+- Plasma picks: -
+- Breacher ordnance: Indirect Fire
+- Tremor shells: Indirect Fire
+- Magna-coil autocannon: -
+- ➤ Ancestral Wrath - witchfire: Psychic
+- ➤ Ancestral Wrath - focused witchfire: Hazardous
+- ➤ Ancestral Wrath - focused witchfire: Psychic
+- Autoch-pattern bolter: -
+- Autoch-pattern combi-bolter: -
+- Graviton blast cannon: Anti-Monster 3+
+- Graviton blast cannon: Anti-Vehicle 3+
+- Graviton rifle: Anti-Monster 3+
+- Graviton rifle: Anti-Vehicle 3+
+- Ion blaster: -
+- SP conversion beamer: Conversion
+- Ancestral ward stave: Psychic
+- Close combat weapon: -
+- Concussion maul: Anti-Monster 3+
+- Concussion maul: Anti-Vehicle 3+
+- Darkstar axe: -
+- Forgewrought plasma axe: -
+- Graviton hammer: Anti-Monster 3+
+- Graviton hammer: Anti-Vehicle 3+
+- Heavy plasma axe: -
+- Mass gauntlet: -
+- Mass hammer: -
+- Plasma blade gauntlet: -
+- Plasma knife: -
+- Theyn's melee weapon: -
+- Magna-coil autocannon: -
+- ➤ Ancestral Wrath - witchfire: Psychic
+- ➤ Ancestral Wrath - focused witchfire: Hazardous
+- ➤ Ancestral Wrath - focused witchfire: Psychic
+- Autoch-pattern bolter: -
+- Autoch-pattern combi-bolter: -
+- Graviton blast cannon: Anti-Monster 3+
+- Graviton blast cannon: Anti-Vehicle 3+
+- Graviton rifle: Anti-Monster 3+
+- Graviton rifle: Anti-Vehicle 3+
+- Ion blaster: -
+- SP conversion beamer: Conversion
+- Ancestral ward stave: Psychic
+- Close combat weapon: -
+- Concussion maul: Anti-Monster 3+
+- Concussion maul: Anti-Vehicle 3+
+- Darkstar axe: -
+- Forgewrought plasma axe: -
+- Graviton hammer: Anti-Monster 3+
+- Graviton hammer: Anti-Vehicle 3+
+- Heavy plasma axe: -
+- Mass gauntlet: -
+- Mass hammer: -
+- Plasma blade gauntlet: -
+- Plasma knife: -
+- Theyn's melee weapon: -
+- Magna-coil autocannon: -
+- ➤ Ancestral Wrath - witchfire: Psychic
+- ➤ Ancestral Wrath - focused witchfire: Hazardous
+- ➤ Ancestral Wrath - focused witchfire: Psychic
+- Autoch-pattern bolter: -
+- Autoch-pattern combi-bolter: -
+- Graviton blast cannon: Anti-Monster 3+
+- Graviton blast cannon: Anti-Vehicle 3+
+- Graviton rifle: Anti-Monster 3+
+- Graviton rifle: Anti-Vehicle 3+
+- Ion blaster: -
+- SP conversion beamer: Conversion
+- Ancestral ward stave: Psychic
+- Close combat weapon: -
+- Concussion maul: Anti-Monster 3+
+- Concussion maul: Anti-Vehicle 3+
+- Darkstar axe: -
+- Forgewrought plasma axe: -
+- Graviton hammer: Anti-Monster 3+
+- Graviton hammer: Anti-Vehicle 3+
+- Heavy plasma axe: -
+- Mass gauntlet: -
+- Mass hammer: -
+- Plasma blade gauntlet: -
+- Plasma knife: -
+- Theyn's melee weapon: -
+- ➤ Kromlôk's Revenge - graviton strikes: Anti-Monster 3+
+- ➤ Kromlôk's Revenge - graviton strikes: Anti-Vehicle 3+
+- Warforge gauntlets: Extra Attacks
