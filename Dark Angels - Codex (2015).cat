@@ -7793,6 +7793,11 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="95c3-c18e-de01-6b81" type="max"/>
           </constraints>
         </entryLink>
+        <entryLink import="true" name="The Inner Circle" hidden="false" id="6b9a-031a-2413-42da" type="selectionEntry" targetId="569e-613e-b7d3-7e2b">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="bb0d-7853-13c5-a530"/>
+          </constraints>
+        </entryLink>
       </entryLinks>
       <costs>
         <cost typeId="points" name="pts" value="0"/>
