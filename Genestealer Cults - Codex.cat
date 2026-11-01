@@ -4891,16 +4891,6 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80005" name="Shotgun" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80006" name="Shotgun" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">12&quot;</characteristic>
-            <characteristic name="Strength">3</characteristic>
-            <characteristic name="AP">6</characteristic>
-            <characteristic name="Type">Assault 2</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
       <costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
@@ -4981,16 +4971,6 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80017" name="Atalan Incinerator" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80018" name="Atalan Incinerator" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">Template</characteristic>
-            <characteristic name="Strength">4</characteristic>
-            <characteristic name="AP">6</characteristic>
-            <characteristic name="Type">Assault 1, Torrent</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
       <costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
@@ -5388,33 +5368,15 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
             <constraint id="c-80116" type="min" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false"/>
             <constraint id="c-80117" type="max" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false"/>
           </constraints>
-          <profiles>
-            <profile id="prof-80111" name="Atalan Jackal" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-              <characteristics>
-                <characteristic name="Unit Type">Cavalry</characteristic>
-                <characteristic name="WS">3</characteristic>
-                <characteristic name="BS">3</characteristic>
-                <characteristic name="S">3</characteristic>
-                <characteristic name="T">3</characteristic>
-                <characteristic name="W">1</characteristic>
-                <characteristic name="I">4</characteristic>
-                <characteristic name="A">1</characteristic>
-                <characteristic name="Ld">7</characteristic>
-                <characteristic name="Save">6+</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <rules>
-            <rule id="rule-80118" name="Move Through Cover" hidden="false">
-              <description>This unit has the Move Through Cover special rule.</description>
-            </rule>
-          </rules>
           <entryLinks>
             <entryLink id="el-80123" name="Shotgun" hidden="false" targetId="wpn-80005" type="selectionEntry">
               <constraints>
                 <constraint id="c-80121" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
                 <constraint id="c-80122" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
               </constraints>
+              <infoLinks>
+                <infoLink name="Shotgun" id="e1c9-b6bf-46ed-1042" hidden="false" type="profile" targetId="07cb-70d7-15c3-5117"/>
+              </infoLinks>
             </entryLink>
             <entryLink id="el-80126" name="Demolition Charges" hidden="false" targetId="wpn-80109" type="selectionEntry">
               <constraints>
@@ -5426,50 +5388,26 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <costs>
             <cost name="pts" typeId="points" value="12"/>
           </costs>
+          <infoLinks>
+            <infoLink name="Atalan Jackal" id="fe3b-0f45-ad30-143e" hidden="false" type="profile" targetId="prof-80111"/>
+            <infoLink name="Move Through Cover" id="2695-13ab-e2ac-f927" hidden="false" type="rule" targetId="7ecc-bc3d-6e22-63dc"/>
+          </infoLinks>
         </selectionEntry>
         <selectionEntry id="m-80115" name="Wolfquad" hidden="false" type="model" collective="false">
           <constraints>
             <constraint id="c-80127" type="min" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false"/>
             <constraint id="c-80128" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false"/>
           </constraints>
-          <profiles>
-            <profile id="prof-80112" name="Wolfquad" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-              <characteristics>
-                <characteristic name="Unit Type">Cavalry</characteristic>
-                <characteristic name="WS">3</characteristic>
-                <characteristic name="BS">3</characteristic>
-                <characteristic name="S">4</characteristic>
-                <characteristic name="T">4</characteristic>
-                <characteristic name="W">2</characteristic>
-                <characteristic name="I">3</characteristic>
-                <characteristic name="A">2</characteristic>
-                <characteristic name="Ld">7</characteristic>
-                <characteristic name="Save">6+</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <rules>
-            <rule id="rule-80129" name="Move Through Cover" hidden="false">
-              <description>This unit has the Move Through Cover special rule.</description>
-            </rule>
-          </rules>
           <entryLinks>
-            <entryLink id="el-80134" name="Heavy Stubber" hidden="false" targetId="wpn-80015" type="selectionEntry">
-              <constraints>
-                <constraint id="c-80132" type="min" field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-                <constraint id="c-80133" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-              </constraints>
-            </entryLink>
-            <entryLink id="el-80137" name="Atalan Incinerator" hidden="false" targetId="wpn-80017" type="selectionEntry">
-              <constraints>
-                <constraint id="c-80135" type="min" field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-                <constraint id="c-80136" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-              </constraints>
-            </entryLink>
+            <entryLink import="true" name="Heavy Mining Weapons" hidden="false" id="e8ce-7ed2-9e4c-8a67" type="selectionEntryGroup" targetId="aa59-305d-0c36-9342"/>
           </entryLinks>
           <costs>
             <cost name="pts" typeId="points" value="25"/>
           </costs>
+          <infoLinks>
+            <infoLink name="Wolfquad" id="c245-a232-5612-ff14" hidden="false" type="profile" targetId="prof-80112"/>
+            <infoLink name="Move Through Cover" id="8d25-e629-aa7b-fd80" hidden="false" type="rule" targetId="7ecc-bc3d-6e22-63dc"/>
+          </infoLinks>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -5477,37 +5415,8 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
       </costs>
     </selectionEntry>
     <selectionEntry id="unit-80139" name="Achilles Ridgerunner" hidden="false" type="model" collective="false" import="true">
-      <constraints>
-        <constraint id="c-80140" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-        <constraint id="c-80141" type="max" field="selections" scope="force" value="6" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-      </constraints>
-      <profiles>
-        <profile id="prof-80138" name="Achilles Ridgerunner" hidden="false" typeId="725a358c-765b-498c-8de5-399fc0c0725f" typeName="Vehicle">
-          <characteristics>
-            <characteristic name="BS">3</characteristic>
-            <characteristic name="Front">11</characteristic>
-            <characteristic name="Side">11</characteristic>
-            <characteristic name="Rear">10</characteristic>
-            <characteristic name="HP">3</characteristic>
-            <characteristic name="Type">Vehicle (Fast, Open-topped, Skimmer)</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <rules>
-        <rule id="rule-80142" name="Smoke Launchers" hidden="false">
-          <description>This vehicle has smoke launchers, as per the standard rules.</description>
-        </rule>
-      </rules>
-      <entryLinks>
-        <entryLink id="el-80145" name="Heavy Mortar" hidden="false" targetId="wpn-80019" type="selectionEntry">
-          <constraints>
-            <constraint id="c-80143" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-            <constraint id="c-80144" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-          </constraints>
-        </entryLink>
-      </entryLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="grp-80146" name="Alternate Main Weapon" hidden="false" collective="false">
+        <selectionEntryGroup id="grp-80146" name="Secondary Weapon" hidden="false" collective="false">
           <constraints>
             <constraint id="c-80147" type="min" field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
             <constraint id="c-80148" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
@@ -5515,11 +5424,26 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <entryLinks>
             <entryLink id="el-80149" name="Heavy Mining Laser" hidden="false" targetId="hml-wrap" type="selectionEntry"/>
           </entryLinks>
+          <selectionEntries>
+            <selectionEntry type="upgrade" import="true" name="Mortar" hidden="false" id="ee5b-ca91-b3d6-6ce6">
+              <infoLinks>
+                <infoLink name="Mortar" id="7baa-92a9-e37c-1ccc" hidden="false" type="profile" targetId="9b8a-fcd5-b272-6aa2"/>
+              </infoLinks>
+              <costs>
+                <cost name="pts" typeId="points" value="5"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
       <costs>
         <cost name="pts" typeId="points" value="55"/>
       </costs>
+      <infoLinks>
+        <infoLink name="Achilles Ridgerunner" id="2970-ddc7-0f29-9304" hidden="false" type="profile" targetId="prof-80138"/>
+        <infoLink name="Smoke Launchers" id="d992-a779-f6a3-d49b" hidden="false" type="profile" targetId="be94-3241-83e6-6b48"/>
+        <infoLink name="Move Through Cover" id="a07e-88a1-938d-04fc" hidden="false" type="rule" targetId="7ecc-bc3d-6e22-63dc"/>
+      </infoLinks>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
@@ -5619,6 +5543,17 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           </infoLinks>
           <costs>
             <cost name="pts" typeId="points" value="20"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry type="upgrade" import="true" name="Heavy Incinerator" hidden="false" id="ae4e-4c2a-3eb3-a697">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c-80136" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+          </constraints>
+          <infoLinks>
+            <infoLink name="Heavy Incinerator" id="2ac6-73f9-e3d7-4588" hidden="false" type="profile" targetId="prof-80018"/>
+          </infoLinks>
+          <costs>
+            <cost name="pts" typeId="points" value="5"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -6556,6 +6491,52 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">4</characteristic>
         <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">-</characteristic>
         <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Assault 1, Blast, Cocooned</characteristic>
+      </characteristics>
+    </profile>
+    <profile name="Atalan Jackal" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit" hidden="false" id="prof-80111">
+      <characteristics>
+        <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Cavalry</characteristic>
+        <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">3</characteristic>
+        <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+        <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+        <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+        <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">1</characteristic>
+        <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">4</characteristic>
+        <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">1</characteristic>
+        <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">7</characteristic>
+        <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">6+</characteristic>
+      </characteristics>
+    </profile>
+    <profile name="Wolfquad" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit" hidden="false" id="prof-80112">
+      <characteristics>
+        <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Cavalry</characteristic>
+        <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">3</characteristic>
+        <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+        <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">4</characteristic>
+        <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">4</characteristic>
+        <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+        <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">3</characteristic>
+        <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">2</characteristic>
+        <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">7</characteristic>
+        <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">6+</characteristic>
+      </characteristics>
+    </profile>
+    <profile name="Heavy Incinerator" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon" hidden="false" id="prof-80018">
+      <characteristics>
+        <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Template</characteristic>
+        <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">4</characteristic>
+        <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">6</characteristic>
+        <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Assault 1, Torrent</characteristic>
+      </characteristics>
+    </profile>
+    <profile name="Achilles Ridgerunner" typeId="725a358c-765b-498c-8de5-399fc0c0725f" typeName="Vehicle" hidden="false" id="prof-80138">
+      <characteristics>
+        <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+        <characteristic name="Front" typeId="8cdd4fef-d1ba-4007-992c-b6f93e86d43f">11</characteristic>
+        <characteristic name="Side" typeId="5f9a3780-eecb-4c70-be1d-e5bd06b06e9e">11</characteristic>
+        <characteristic name="Rear" typeId="0a9f33cb-0412-420a-89d2-20707c360bd2">10</characteristic>
+        <characteristic name="HP" typeId="ae95a1af-719f-4365-b951-33cd3ca9148a">3</characteristic>
+        <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Vehicle (Fast, Open-topped)</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
