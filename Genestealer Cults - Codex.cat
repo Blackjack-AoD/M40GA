@@ -320,7 +320,7 @@
         <categoryLink id="rootlink-7-cat" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true" name="Fast Attack"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="rootlink-8" name="Achilles Ridgerunner" hidden="false" collective="false" import="true" targetId="unit-80139" type="selectionEntry">
+    <entryLink id="rootlink-8" name="Achilles Ridgerunner Pack" hidden="false" collective="false" import="true" targetId="0649-99c3-454d-9621" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="rootlink-8-cat" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true" name="Fast Attack"/>
       </categoryLinks>
@@ -4357,7 +4357,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
       <profiles>
         <profile id="d963-9cf6-4240-9198" name="The Crouchling" publicationId="f840-ed73-pubN65537" page="101" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Wargear Item">
           <characteristics>
-            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">In close combat, a model with accompanied by the Crouchling makes two additional S4 AP- attacks with the Rending special rule. In addition, the bearer may generate one additional psychic power at the start of the game.  The Crouchling is represented by a separate miniature that will always remain as close as possible to it&apos;s master. The model itself is decorative and is always ignored for game purproses - just move it to one side if it gets in the way. Remove the Crouchling once it&apos;s master has been slain.</characteristic>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">In close combat, a model accompanied by the Crouchling makes two additional S4 AP- attacks with the Rending special rule. In addition, the bearer may generate one additional psychic power at the start of the game. The Crouchling is represented by a separate miniature that will always remain as close as possible to it&apos;s master. The model itself is decorative and is always ignored for game purposes - just move it to one side if it gets in the way. Remove the Crouchling once it&apos;s master has been slain.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4970,11 +4970,6 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="wpn-80017" name="Atalan Incinerator" hidden="false" type="upgrade" collective="false">
-      <costs>
-        <cost name="pts" typeId="points" value="0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="wpn-80019" name="Heavy Mortar" hidden="false" type="upgrade" collective="false">
       <profiles>
         <profile id="prof-80020" name="Heavy Mortar" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
@@ -5363,36 +5358,6 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
     </selectionEntry>
     <selectionEntry id="unit-80113" name="Atalan Jackals" hidden="false" type="unit" collective="false" import="true">
       <selectionEntries>
-        <selectionEntry id="m-80114" name="Atalan Jackal" hidden="false" type="model" collective="false">
-          <constraints>
-            <constraint id="c-80116" type="min" field="selections" scope="parent" value="2" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false"/>
-            <constraint id="c-80117" type="max" field="selections" scope="parent" value="9" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false"/>
-          </constraints>
-          <entryLinks>
-            <entryLink id="el-80123" name="Shotgun" hidden="false" targetId="wpn-80005" type="selectionEntry">
-              <constraints>
-                <constraint id="c-80121" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-                <constraint id="c-80122" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-              </constraints>
-              <infoLinks>
-                <infoLink name="Shotgun" id="e1c9-b6bf-46ed-1042" hidden="false" type="profile" targetId="07cb-70d7-15c3-5117"/>
-              </infoLinks>
-            </entryLink>
-            <entryLink id="el-80126" name="Demolition Charges" hidden="false" targetId="wpn-80109" type="selectionEntry">
-              <constraints>
-                <constraint id="c-80124" type="min" field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-                <constraint id="c-80125" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
-              </constraints>
-            </entryLink>
-          </entryLinks>
-          <costs>
-            <cost name="pts" typeId="points" value="12"/>
-          </costs>
-          <infoLinks>
-            <infoLink name="Atalan Jackal" id="fe3b-0f45-ad30-143e" hidden="false" type="profile" targetId="prof-80111"/>
-            <infoLink name="Move Through Cover" id="2695-13ab-e2ac-f927" hidden="false" type="rule" targetId="7ecc-bc3d-6e22-63dc"/>
-          </infoLinks>
-        </selectionEntry>
         <selectionEntry id="m-80115" name="Wolfquad" hidden="false" type="model" collective="false">
           <constraints>
             <constraint id="c-80127" type="min" field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false"/>
@@ -5409,12 +5374,172 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
             <infoLink name="Move Through Cover" id="8d25-e629-aa7b-fd80" hidden="false" type="rule" targetId="7ecc-bc3d-6e22-63dc"/>
           </infoLinks>
         </selectionEntry>
+        <selectionEntry type="model" import="true" name="Atalan Jackal Leader" hidden="false" id="7a40-42b8-1ae2-d70d" collective="false">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="d469-e1bb-c17c-b3e5" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+            <constraint type="min" value="0" field="selections" scope="parent" shared="true" id="28b9-5b7a-6785-5487"/>
+          </constraints>
+          <infoLinks>
+            <infoLink name="Atalan Jackal Leader" id="2a21-9c90-ce92-8ad9" hidden="false" type="profile" targetId="afa1-b830-cd65-1af1"/>
+          </infoLinks>
+          <selectionEntryGroups>
+            <selectionEntryGroup name="Pistol Hand" id="13d1-82d4-ee3f-0d70" hidden="false" collective="false" import="true" defaultSelectionEntryId="ece4-ac1d-6970-ed00">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="false" id="2b98-0577-28da-86f8" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="d689-32f5-4b11-2c61" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry type="upgrade" import="true" name="Autopistol" hidden="false" id="31f2-36a7-e05f-8564" collective="false">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="4509-fd1e-db4a-023d" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <infoLinks>
+                    <infoLink name="Autopistol" id="5ae3-6724-ca58-0022" hidden="false" targetId="2481-001b-00f9-501b" type="profile"/>
+                  </infoLinks>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <entryLinks>
+                <entryLink import="true" name="Pistol Weapons" hidden="false" id="388a-e054-e072-5be3" collective="false" targetId="1aa3-c53b-7a9c-daaf" type="selectionEntryGroup"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup name="Sword Hand" id="1bc0-7fa7-0972-ffe5" hidden="false" collective="false" import="true" defaultSelectionEntryId="ad49-3098-12b6-f0eb">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="false" id="0cd0-3f42-1227-70fc" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="d6fb-b995-8554-3fda" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry type="upgrade" import="true" name="Close Combat Weapon" hidden="false" id="607f-319a-7087-8cbd" collective="false">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="d4c7-caf1-9b49-5283" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <infoLinks>
+                    <infoLink name="Close Combat Weapon" id="e94c-9f5a-9209-e85d" hidden="false" targetId="e294-a5c7-e01e-0a82" type="profile"/>
+                  </infoLinks>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <entryLinks>
+                <entryLink import="true" name="Melee Weapons" hidden="false" id="64da-b99a-8656-c26f" collective="false" targetId="57cf-cf08-69d6-340b" type="selectionEntryGroup"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <entryLinks>
+            <entryLink import="true" name="Blasting charges" hidden="false" id="47f2-27f4-4d7e-9961" collective="false" targetId="e340-f3f5-d460-0e45" type="selectionEntry"/>
+          </entryLinks>
+          <costs>
+            <cost name="pts" typeId="points" value="12"/>
+          </costs>
+        </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
+      <entryLinks>
+        <entryLink import="true" name="Demolition Charges" hidden="false" id="el-80126" targetId="wpn-80109" type="selectionEntry">
+          <constraints>
+            <constraint type="min" value="0" field="selections" scope="parent" shared="true" id="c-80124" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c-80125" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <infoLinks>
+        <infoLink name="Move Through Cover" id="2695-13ab-e2ac-f927" hidden="false" type="rule" targetId="7ecc-bc3d-6e22-63dc"/>
+        <infoLink name="Scout" id="2c15-b7b7-aba6-ad44" hidden="false" type="rule" targetId="1794-e0e0-bedf-e46b"/>
+        <infoLink name="Cult Ambush" id="ce2f-a0f7-1cc4-89dc" hidden="false" type="rule" targetId="5e06-11ab-8ac6-6375"/>
+        <infoLink name="Return to the Shadows" id="c42a-719f-5a12-6a9b" hidden="false" type="rule" targetId="68a1-1058-e764-744e"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Additional Weapons" id="6f7c-02a3-b764-a1fc" hidden="false"/>
+        <selectionEntryGroup name="Atalan Jackals" id="b190-a11e-4706-eec7" hidden="false" collective="false" import="true" defaultSelectionEntryId="5c81-29f2-a28e-9347">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="false" id="d7f3-0b5e-6b3c-036c" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+            <constraint type="max" value="8" field="selections" scope="parent" shared="false" id="95cb-ce9d-c84c-4927" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry type="model" import="true" name="Atalan Jackal w/ Special Weapon" hidden="false" id="0478-1716-a5cd-e18a" collective="false">
+              <infoLinks>
+                <infoLink name="Atalan Jackal" id="ae6b-88cc-9140-a4f1" hidden="false" type="profile" targetId="prof-80111"/>
+              </infoLinks>
+              <entryLinks>
+                <entryLink import="true" name="Special Weapons" hidden="false" id="c469-4a4d-1ed7-6dad" collective="false" targetId="6de9-49aa-dc55-1f45" type="selectionEntryGroup"/>
+                <entryLink import="true" name="Autopistol" hidden="false" id="edfd-9b0a-7fd3-1531" collective="false" targetId="f326-5a6b-1371-ca42" type="selectionEntry"/>
+                <entryLink import="true" name="Blasting charges" hidden="false" id="d98c-44d6-129a-96e7" collective="false" targetId="e340-f3f5-d460-0e45" type="selectionEntry"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="points" value="17"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry type="model" import="true" name="Atalan Jackal" hidden="false" id="b37f-136a-0919-b35e" collective="false">
+              <constraints>
+                <constraint type="max" value="8" field="selections" scope="parent" shared="false" id="eed4-77ca-9cf4-6c38" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+              </constraints>
+              <infoLinks>
+                <infoLink name="Atalan Jackal" id="502f-6d8d-811f-c299" hidden="false" type="profile" targetId="prof-80111"/>
+              </infoLinks>
+              <selectionEntries>
+                <selectionEntry type="upgrade" import="true" name="Shotgun" hidden="false" id="7f50-e3ec-722c-cb2c" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="false" id="023c-7ebf-3a05-2a7d" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="dc69-bf6a-e50f-c33a" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <infoLinks>
+                    <infoLink name="Shotgun" id="0c27-d6c9-5d49-bb24" hidden="false" targetId="07cb-70d7-15c3-5117" type="profile"/>
+                  </infoLinks>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <entryLinks>
+                <entryLink import="true" name="Autopistol" hidden="false" id="1610-f892-7d26-a328" collective="false" targetId="f326-5a6b-1371-ca42" type="selectionEntry"/>
+                <entryLink import="true" name="Blasting charges" hidden="false" id="05ed-0f63-1d89-191c" collective="false" targetId="e340-f3f5-d460-0e45" type="selectionEntry"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="points" value="12"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry type="model" import="true" name="Atalan Jackal (Shotgun)" hidden="false" id="a40d-fecb-a7ff-4b74" collective="false">
+              <constraints>
+                <constraint type="max" value="8" field="selections" scope="parent" shared="false" id="5576-ccaf-a44f-8b5d" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+              </constraints>
+              <infoLinks>
+                <infoLink name="Atalan Jackal" id="bbe9-333e-2e32-4dfe" hidden="false" type="profile" targetId="prof-80111"/>
+              </infoLinks>
+              <selectionEntries>
+                <selectionEntry type="upgrade" import="true" name="Shotgun" hidden="false" id="a8f4-67d4-027e-f03f" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="false" id="ebcb-6c63-e06e-8ab9" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="false" id="e8fc-8600-d049-a5d9" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <infoLinks>
+                    <infoLink name="Shotgun" id="6255-8350-bbeb-3b71" hidden="false" targetId="07cb-70d7-15c3-5117" type="profile"/>
+                  </infoLinks>
+                  <costs>
+                    <cost name="pts" typeId="points" value="0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <entryLinks>
+                <entryLink import="true" name="Autopistol" hidden="false" id="2efd-3f61-5a3a-1589" collective="false" targetId="f326-5a6b-1371-ca42" type="selectionEntry"/>
+                <entryLink import="true" name="Blasting charges" hidden="false" id="60d6-9f92-5102-e4be" collective="false" targetId="e340-f3f5-d460-0e45" type="selectionEntry"/>
+              </entryLinks>
+              <costs>
+                <cost name="pts" typeId="points" value="15"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
     </selectionEntry>
     <selectionEntry id="unit-80139" name="Achilles Ridgerunner" hidden="false" type="model" collective="false" import="true">
+      <entryLinks>
+        <entryLink import="true" name="Heavy Stubber" hidden="false" id="5332-0163-99db-5bb3" type="selectionEntry" targetId="wpn-80015"/>
+      </entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="grp-80146" name="Secondary Weapon" hidden="false" collective="false">
           <constraints>
@@ -5423,6 +5548,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           </constraints>
           <entryLinks>
             <entryLink id="el-80149" name="Heavy Mining Laser" hidden="false" targetId="hml-wrap" type="selectionEntry"/>
+            <entryLink import="true" name="Missile Launcher" hidden="false" id="3541-d289-3617-3261" type="selectionEntry" targetId="8cb4-0403-3034-d5da"/>
           </entryLinks>
           <selectionEntries>
             <selectionEntry type="upgrade" import="true" name="Mortar" hidden="false" id="ee5b-ca91-b3d6-6ce6">
@@ -5443,7 +5569,23 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <infoLink name="Achilles Ridgerunner" id="2970-ddc7-0f29-9304" hidden="false" type="profile" targetId="prof-80138"/>
         <infoLink name="Smoke Launchers" id="d992-a779-f6a3-d49b" hidden="false" type="profile" targetId="be94-3241-83e6-6b48"/>
         <infoLink name="Move Through Cover" id="a07e-88a1-938d-04fc" hidden="false" type="rule" targetId="7ecc-bc3d-6e22-63dc"/>
+        <infoLink name="Scout" id="4c02-4d7c-70ba-8532" hidden="false" type="rule" targetId="1794-e0e0-bedf-e46b"/>
+        <infoLink name="Return to the Shadows" id="016e-06cf-61c8-9761" hidden="false" type="rule" targetId="68a1-1058-e764-744e"/>
+        <infoLink name="Cult Ambush" id="8fce-25f6-8ba9-1a36" hidden="false" type="rule" targetId="5e06-11ab-8ac6-6375"/>
       </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="Achilles Ridgerunner Pack" hidden="false" id="0649-99c3-454d-9621">
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Achilles Ridgerunner" id="6e11-f82e-65cf-5beb" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Achilles Ridgerunner" hidden="false" id="191d-d40b-2fdb-7b2e" type="selectionEntry" targetId="unit-80139"/>
+          </entryLinks>
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="cf4d-b265-6df8-960b"/>
+            <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="7385-fa48-1aac-36f9"/>
+          </constraints>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
@@ -5786,27 +5928,10 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
     </selectionEntryGroup>
     <selectionEntryGroup id="6de9-49aa-dc55-1f45" name="Special Weapons" hidden="false" collective="false" import="true">
       <constraints>
-        <constraint field="selections" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
+        <constraint field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="minSelections" type="min"/>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
-        <constraint field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="minInForce" type="min"/>
-        <constraint field="selections" scope="force" value="-1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInForce" type="max"/>
-        <constraint field="selections" scope="roster" value="0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="minInRoster" type="min"/>
-        <constraint field="selections" scope="roster" value="-1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
-        <constraint field="points" scope="parent" value="0" percentValue="false" shared="false" includeChildSelections="true" includeChildForces="false" id="minPoints" type="min"/>
-        <constraint field="points" scope="parent" value="-1" percentValue="false" shared="false" includeChildSelections="true" includeChildForces="false" id="maxPoints" type="max"/>
       </constraints>
       <selectionEntries>
-        <selectionEntry id="87dc-367b-4ba5-79e4" name="Flamer" hidden="false" collective="false" import="true" type="upgrade">
-          <constraints>
-            <constraint field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
-          </constraints>
-          <infoLinks>
-            <infoLink id="e3b0-3ecf-9670-b0d8" hidden="false" targetId="cdc3-3459-a28c-a9cf" type="profile" name="Flamer"/>
-          </infoLinks>
-          <costs>
-            <cost name="pts" typeId="points" value="5"/>
-          </costs>
-        </selectionEntry>
         <selectionEntry id="24ec-29e4-17ae-6c05" name="Grenade Launcher" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
@@ -5817,18 +5942,6 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           </infoLinks>
           <costs>
             <cost name="pts" typeId="points" value="5"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="1cb8-7c3c-f1a8-79f4" name="Webber" hidden="false" collective="false" import="true" type="upgrade">
-          <constraints>
-            <constraint field="selections" scope="parent" value="1" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
-          </constraints>
-          <infoLinks>
-            <infoLink id="b786-1112-9a3c-64e6" hidden="false" targetId="ccb6-b2fd-ee60-5798" type="profile" name="Webber"/>
-            <infoLink id="221e-dd67-4ebb-81dc" hidden="false" targetId="7ff9-2ca7-9017-2bf2" type="rule" name="Cocooned"/>
-          </infoLinks>
-          <costs>
-            <cost name="pts" typeId="points" value="10"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
@@ -6503,8 +6616,8 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">1</characteristic>
         <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">4</characteristic>
         <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">1</characteristic>
-        <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">7</characteristic>
-        <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">6+</characteristic>
+        <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">8</characteristic>
+        <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
       </characteristics>
     </profile>
     <profile name="Wolfquad" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit" hidden="false" id="prof-80112">
@@ -6537,6 +6650,20 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <characteristic name="Rear" typeId="0a9f33cb-0412-420a-89d2-20707c360bd2">10</characteristic>
         <characteristic name="HP" typeId="ae95a1af-719f-4365-b951-33cd3ca9148a">3</characteristic>
         <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Vehicle (Fast, Open-topped)</characteristic>
+      </characteristics>
+    </profile>
+    <profile name="Atalan Jackal Leader" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit" hidden="false" id="afa1-b830-cd65-1af1">
+      <characteristics>
+        <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Cavalry</characteristic>
+        <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">3</characteristic>
+        <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+        <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+        <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+        <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">1</characteristic>
+        <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">4</characteristic>
+        <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">2</characteristic>
+        <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">9</characteristic>
+        <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
