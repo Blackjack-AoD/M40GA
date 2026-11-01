@@ -5538,7 +5538,12 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
     </selectionEntry>
     <selectionEntry id="unit-80139" name="Achilles Ridgerunner" hidden="false" type="model" collective="false" import="true">
       <entryLinks>
-        <entryLink import="true" name="Heavy Stubber" hidden="false" id="5332-0163-99db-5bb3" type="selectionEntry" targetId="wpn-80015"/>
+        <entryLink import="true" name="Heavy Stubber" hidden="false" id="5332-0163-99db-5bb3" type="selectionEntry" targetId="wpn-80015">
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7942-e8ba-acfa-a77a-min"/>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7942-e8ba-acfa-a77a-max"/>
+          </constraints>
+        </entryLink>
       </entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="grp-80146" name="Secondary Weapon" hidden="false" collective="false">
@@ -5576,7 +5581,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Achilles Ridgerunner Pack" hidden="false" id="0649-99c3-454d-9621">
       <selectionEntryGroups>
-        <selectionEntryGroup name="Achilles Ridgerunner" id="6e11-f82e-65cf-5beb" hidden="false">
+        <selectionEntryGroup name="Achilles Ridgerunner" id="6e11-f82e-65cf-5beb" hidden="false" defaultSelectionEntryId="191d-d40b-2fdb-7b2e">
           <entryLinks>
             <entryLink import="true" name="Achilles Ridgerunner" hidden="false" id="191d-d40b-2fdb-7b2e" type="selectionEntry" targetId="unit-80139"/>
           </entryLinks>
