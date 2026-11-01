@@ -4861,97 +4861,43 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80001" name="Autopistol" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80002" name="Autopistol" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">12&quot;</characteristic>
-            <characteristic name="Strength">3</characteristic>
-            <characteristic name="AP">6</characteristic>
-            <characteristic name="Type">Pistol 1</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
+      
+      <infoLinks><infoLink id="c2e9-d0dd-229c-4b78" name="Autopistol" hidden="false" targetId="2481-001b-00f9-501b" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80003" name="Close Combat Weapon" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80004" name="Close Combat Weapon" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">Melee</characteristic>
-            <characteristic name="Strength">User</characteristic>
-            <characteristic name="AP">-</characteristic>
-            <characteristic name="Type">Melee</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
+      
+      <infoLinks><infoLink id="da02-6179-8988-46b0" name="Close Combat Weapon" hidden="false" targetId="e294-a5c7-e01e-0a82" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80005" name="Shotgun" hidden="false" type="upgrade" collective="false">
-      <costs>
+      <infoLinks><infoLink id="015b-73e2-0e46-40c8" name="Shotgun" hidden="false" targetId="07cb-70d7-15c3-5117" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80007" name="Silencer Sniper Rifle" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80008" name="Silencer Sniper Rifle" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">36&quot;</characteristic>
-            <characteristic name="Strength">4</characteristic>
-            <characteristic name="AP">4</characteristic>
-            <characteristic name="Type">Heavy 1, Sniper, Precision Shot, Psy-tendril Rounds (wounds inflicted on models with a Psyker Mastery Level cause the target to immediately suffer a Perils of the Warp test)</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
+      
+      <infoLinks><infoLink id="db38-5cb9-c955-4fbb" name="Silencer Sniper Rifle" hidden="false" targetId="prof-80008" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80009" name="Sanctus Bio-dagger" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80010" name="Sanctus Bio-dagger" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">Melee</characteristic>
-            <characteristic name="Strength">User</characteristic>
-            <characteristic name="AP">3</characteristic>
-            <characteristic name="Type">Melee, Poisoned (3+), Rending</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
+      
+      <infoLinks><infoLink id="1cea-e9ac-0a21-4405" name="Sanctus Bio-dagger" hidden="false" targetId="prof-80010" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80011" name="Locus Lashing Swords" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80012" name="Locus Lashing Swords" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">Melee</characteristic>
-            <characteristic name="Strength">+1</characteristic>
-            <characteristic name="AP">3</characteristic>
-            <characteristic name="Type">Melee, Shred</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
+      
+      <infoLinks><infoLink id="ce06-fc4c-9097-4678" name="Locus Lashing Swords" hidden="false" targetId="prof-80012" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80013" name="Twin Liberator Autostubs" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80014" name="Twin Liberator Autostubs" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">12&quot;</characteristic>
-            <characteristic name="Strength">4</characteristic>
-            <characteristic name="AP">5</characteristic>
-            <characteristic name="Type">Pistol 4, Rending, Gunslinger Legend (this weapon may be fired in the Assault phase as if it were a close combat weapon in addition to shooting with it normally this turn)</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
+      
+      <infoLinks><infoLink id="7721-9feb-6ea0-40a2" name="Twin Liberator Autostubs" hidden="false" targetId="prof-80014" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
@@ -4971,17 +4917,8 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
       </costs>
     </selectionEntry>
     <selectionEntry id="wpn-80019" name="Heavy Mortar" hidden="false" type="upgrade" collective="false">
-      <profiles>
-        <profile id="prof-80020" name="Heavy Mortar" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
-          <characteristics>
-            <characteristic name="Range">48&quot;</characteristic>
-            <characteristic name="Strength">6</characteristic>
-            <characteristic name="AP">4</characteristic>
-            <characteristic name="Type">Heavy 1, Barrage, Large Blast</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
-      <costs>
+      
+      <infoLinks><infoLink id="e309-b2c6-7c76-4add" name="Heavy Mortar" hidden="false" targetId="prof-80020" type="profile" /></infoLinks><costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
@@ -5007,22 +4944,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <constraint id="c-80028" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
         <constraint id="c-80029" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
       </constraints>
-      <profiles>
-        <profile id="prof-80024" name="Kelermorph" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-          <characteristics>
-            <characteristic name="Unit Type">Infantry (Character)</characteristic>
-            <characteristic name="WS">4</characteristic>
-            <characteristic name="BS">6</characteristic>
-            <characteristic name="S">3</characteristic>
-            <characteristic name="T">3</characteristic>
-            <characteristic name="W">2</characteristic>
-            <characteristic name="I">5</characteristic>
-            <characteristic name="A">3</characteristic>
-            <characteristic name="Ld">8</characteristic>
-            <characteristic name="Save">5+</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+      
       <rules>
         <rule id="rule-80025" name="Gunslinger Legend" hidden="false">
           <description>The Kelermorph&apos;s Twin Liberator Autostubs may be fired as both a shooting attack in the Shooting phase and used to make close combat attacks in the same turn, even though they are Pistols.</description>
@@ -5031,7 +4953,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <description>This model is an Independent Character.</description>
         </rule>
       </rules>
-      <infoLinks>
+      <infoLinks><infoLink id="74b7-4804-91c0-4557" name="Kelermorph" hidden="false" targetId="prof-80024" type="profile" />
         <infoLink id="il-80030" name="Cult Ambush" hidden="false" targetId="5e06-11ab-8ac6-6375" type="rule"/>
       </infoLinks>
       <entryLinks>
@@ -5052,22 +4974,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <constraint id="c-80041" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
         <constraint id="c-80042" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
       </constraints>
-      <profiles>
-        <profile id="prof-80037" name="Jackal Alphus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-          <characteristics>
-            <characteristic name="Unit Type">Infantry (Character), Bike</characteristic>
-            <characteristic name="WS">4</characteristic>
-            <characteristic name="BS">4</characteristic>
-            <characteristic name="S">3</characteristic>
-            <characteristic name="T">4</characteristic>
-            <characteristic name="W">2</characteristic>
-            <characteristic name="I">4</characteristic>
-            <characteristic name="A">3</characteristic>
-            <characteristic name="Ld">9</characteristic>
-            <characteristic name="Save">5+</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+      
       <rules>
         <rule id="rule-80038" name="Independent Character" hidden="false">
           <description>This model is an Independent Character. May only join Atalan Jackals units.</description>
@@ -5076,7 +4983,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <description>This model rides a Cult Scout Bike, granting +1 Toughness (already included in the profile above) and the Bike unit type.</description>
         </rule>
       </rules>
-      <infoLinks>
+      <infoLinks><infoLink id="bc6d-ed69-55a2-4970" name="Jackal Alphus" hidden="false" targetId="prof-80037" type="profile" />
         <infoLink id="il-80043" name="Cult Ambush" hidden="false" targetId="5e06-11ab-8ac6-6375" type="rule"/>
       </infoLinks>
       <entryLinks>
@@ -5102,22 +5009,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <constraint id="c-80051" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
         <constraint id="c-80052" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
       </constraints>
-      <profiles>
-        <profile id="prof-80047" name="Biophagus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-          <characteristics>
-            <characteristic name="Unit Type">Infantry (Character)</characteristic>
-            <characteristic name="WS">3</characteristic>
-            <characteristic name="BS">3</characteristic>
-            <characteristic name="S">3</characteristic>
-            <characteristic name="T">3</characteristic>
-            <characteristic name="W">2</characteristic>
-            <characteristic name="I">3</characteristic>
-            <characteristic name="A">1</characteristic>
-            <characteristic name="Ld">8</characteristic>
-            <characteristic name="Save">5+</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+      
       <rules>
         <rule id="rule-80048" name="Independent Character" hidden="false">
           <description>This model is an Independent Character.</description>
@@ -5126,7 +5018,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <description>Once per turn, at the start of any phase, select one friendly Genestealer Cults Infantry unit within 6&quot; of this model. Until the end of the phase, that unit has the Feel No Pain (6+) special rule.</description>
         </rule>
       </rules>
-      <infoLinks>
+      <infoLinks><infoLink id="ec71-3452-49dc-4c24" name="Biophagus" hidden="false" targetId="prof-80047" type="profile" />
         <infoLink id="il-80053" name="Cult Ambush" hidden="false" targetId="5e06-11ab-8ac6-6375" type="rule"/>
       </infoLinks>
       <entryLinks>
@@ -5146,22 +5038,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <constraint id="c-80061" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
         <constraint id="c-80062" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
       </constraints>
-      <profiles>
-        <profile id="prof-80057" name="Clamavus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-          <characteristics>
-            <characteristic name="Unit Type">Infantry (Character)</characteristic>
-            <characteristic name="WS">3</characteristic>
-            <characteristic name="BS">3</characteristic>
-            <characteristic name="S">3</characteristic>
-            <characteristic name="T">3</characteristic>
-            <characteristic name="W">2</characteristic>
-            <characteristic name="I">3</characteristic>
-            <characteristic name="A">1</characteristic>
-            <characteristic name="Ld">8</characteristic>
-            <characteristic name="Save">5+</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+      
       <rules>
         <rule id="rule-80058" name="Independent Character" hidden="false">
           <description>This model is an Independent Character.</description>
@@ -5170,7 +5047,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <description>Once per game turn, when a friendly Genestealer Cults unit arrives from Reserves via the Cult Ambush special rule, you may re-roll the result on the Cult Ambush table.</description>
         </rule>
       </rules>
-      <infoLinks>
+      <infoLinks><infoLink id="9ad5-1250-04c1-4b9b" name="Clamavus" hidden="false" targetId="prof-80057" type="profile" />
         <infoLink id="il-80063" name="Cult Ambush" hidden="false" targetId="5e06-11ab-8ac6-6375" type="rule"/>
       </infoLinks>
       <entryLinks>
@@ -5191,22 +5068,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <constraint id="c-80078" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
         <constraint id="c-80079" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
       </constraints>
-      <profiles>
-        <profile id="prof-80070" name="Sanctus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-          <characteristics>
-            <characteristic name="Unit Type">Infantry (Character)</characteristic>
-            <characteristic name="WS">5</characteristic>
-            <characteristic name="BS">5</characteristic>
-            <characteristic name="S">3</characteristic>
-            <characteristic name="T">3</characteristic>
-            <characteristic name="W">2</characteristic>
-            <characteristic name="I">5</characteristic>
-            <characteristic name="A">3</characteristic>
-            <characteristic name="Ld">8</characteristic>
-            <characteristic name="Save">5+</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+      
       <rules>
         <rule id="rule-80071" name="Infiltrate" hidden="false">
           <description>This unit has the Infiltrate special rule.</description>
@@ -5227,7 +5089,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <description>The Sanctus can never be your Warlord, and cannot join other units. Enemy characters suffer a -1 penalty to their Look Out, Sir! attempts against wounds inflicted by the Sanctus.</description>
         </rule>
       </rules>
-      <infoLinks>
+      <infoLinks><infoLink id="5d69-8a04-c2d2-4216" name="Sanctus" hidden="false" targetId="prof-80070" type="profile" />
         <infoLink id="il-80080" name="Cult Ambush" hidden="false" targetId="5e06-11ab-8ac6-6375" type="rule"/>
       </infoLinks>
       <entryLinks>
@@ -5254,22 +5116,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <constraint id="c-80092" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
         <constraint id="c-80093" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
       </constraints>
-      <profiles>
-        <profile id="prof-80087" name="Nexos" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-          <characteristics>
-            <characteristic name="Unit Type">Infantry (Character)</characteristic>
-            <characteristic name="WS">3</characteristic>
-            <characteristic name="BS">3</characteristic>
-            <characteristic name="S">3</characteristic>
-            <characteristic name="T">3</characteristic>
-            <characteristic name="W">2</characteristic>
-            <characteristic name="I">3</characteristic>
-            <characteristic name="A">1</characteristic>
-            <characteristic name="Ld">9</characteristic>
-            <characteristic name="Save">6+</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+      
       <rules>
         <rule id="rule-80088" name="Independent Character" hidden="false">
           <description>This model is an Independent Character.</description>
@@ -5281,7 +5128,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <description>Once per game turn, when a friendly Genestealer Cults unit arrives from Reserves or Ongoing Reserves via the Cult Ambush table, you may re-roll the result.</description>
         </rule>
       </rules>
-      <infoLinks>
+      <infoLinks><infoLink id="3304-111a-9cde-487d" name="Nexos" hidden="false" targetId="prof-80087" type="profile" />
         <infoLink id="il-80094" name="Cult Ambush" hidden="false" targetId="5e06-11ab-8ac6-6375" type="rule"/>
       </infoLinks>
       <entryLinks>
@@ -5307,22 +5154,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <constraint id="c-80105" type="min" field="selections" scope="force" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
         <constraint id="c-80106" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false"/>
       </constraints>
-      <profiles>
-        <profile id="prof-80098" name="Locus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
-          <characteristics>
-            <characteristic name="Unit Type">Infantry (Character)</characteristic>
-            <characteristic name="WS">5</characteristic>
-            <characteristic name="BS">3</characteristic>
-            <characteristic name="S">4</characteristic>
-            <characteristic name="T">3</characteristic>
-            <characteristic name="W">2</characteristic>
-            <characteristic name="I">5</characteristic>
-            <characteristic name="A">3</characteristic>
-            <characteristic name="Ld">9</characteristic>
-            <characteristic name="Save">5+</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+      
       <rules>
         <rule id="rule-80099" name="Independent Character" hidden="false">
           <description>This model is an Independent Character.</description>
@@ -5340,7 +5172,7 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
           <description>If a Character joined by the Locus is targeted in a Challenge, the Locus can step in and fight the challenge in their stead. When fighting in a challenge, the Locus gains the Fleshbane special rule.</description>
         </rule>
       </rules>
-      <infoLinks>
+      <infoLinks><infoLink id="0a9a-9429-6bcc-4875" name="Locus" hidden="false" targetId="prof-80098" type="profile" />
         <infoLink id="il-80108" name="Unquestioning Loyalty" hidden="false" targetId="890d-2f13-d09f-5149" type="rule"/>
         <infoLink id="il-80107" name="Cult Ambush" hidden="false" targetId="5e06-11ab-8ac6-6375" type="rule"/>
       </infoLinks>
@@ -6656,5 +6488,131 @@ In addition, when Patriarch Ghosar and the Purestrain Princelings deploy using t
         <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
       </characteristics>
     </profile>
-  </sharedProfiles>
+  <profile id="prof-80024" name="Kelermorph" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+          <characteristics>
+            <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Infantry (Character)</characteristic>
+            <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">4</characteristic>
+            <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">6</characteristic>
+            <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+            <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+            <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+            <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">5</characteristic>
+            <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">3</characteristic>
+            <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">8</characteristic>
+            <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80037" name="Jackal Alphus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+          <characteristics>
+            <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Infantry (Character), Bike</characteristic>
+            <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">4</characteristic>
+            <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">4</characteristic>
+            <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+            <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">4</characteristic>
+            <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+            <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">4</characteristic>
+            <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">3</characteristic>
+            <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">9</characteristic>
+            <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80047" name="Biophagus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+          <characteristics>
+            <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Infantry (Character)</characteristic>
+            <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">3</characteristic>
+            <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+            <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+            <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+            <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+            <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">3</characteristic>
+            <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">1</characteristic>
+            <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">8</characteristic>
+            <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80057" name="Clamavus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+          <characteristics>
+            <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Infantry (Character)</characteristic>
+            <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">3</characteristic>
+            <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+            <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+            <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+            <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+            <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">3</characteristic>
+            <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">1</characteristic>
+            <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">8</characteristic>
+            <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80070" name="Sanctus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+          <characteristics>
+            <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Infantry (Character)</characteristic>
+            <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">5</characteristic>
+            <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">5</characteristic>
+            <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+            <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+            <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+            <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">5</characteristic>
+            <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">3</characteristic>
+            <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">8</characteristic>
+            <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80087" name="Nexos" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+          <characteristics>
+            <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Infantry (Character)</characteristic>
+            <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">3</characteristic>
+            <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+            <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">3</characteristic>
+            <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+            <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+            <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">3</characteristic>
+            <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">1</characteristic>
+            <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">9</characteristic>
+            <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">6+</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80098" name="Locus" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+          <characteristics>
+            <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Infantry (Character)</characteristic>
+            <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">5</characteristic>
+            <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">3</characteristic>
+            <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">4</characteristic>
+            <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">3</characteristic>
+            <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">2</characteristic>
+            <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">5</characteristic>
+            <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">3</characteristic>
+            <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">9</characteristic>
+            <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">5+</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80008" name="Silencer Sniper Rifle" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">36&quot;</characteristic>
+            <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">4</characteristic>
+            <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">4</characteristic>
+            <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Heavy 1, Sniper, Precision Shot, Psy-tendril Rounds (wounds inflicted on models with a Psyker Mastery Level cause the target to immediately suffer a Perils of the Warp test)</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80010" name="Sanctus Bio-dagger" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+            <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">User</characteristic>
+            <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">3</characteristic>
+            <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee, Poisoned (3+), Rending</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80012" name="Locus Lashing Swords" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+            <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">+1</characteristic>
+            <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">3</characteristic>
+            <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee, Shred</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80014" name="Twin Liberator Autostubs" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">12&quot;</characteristic>
+            <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">4</characteristic>
+            <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">5</characteristic>
+            <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Pistol 4, Rending, Gunslinger Legend (this weapon may be fired in the Assault phase as if it were a close combat weapon in addition to shooting with it normally this turn)</characteristic>
+          </characteristics>
+        </profile><profile id="prof-80020" name="Heavy Mortar" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">48&quot;</characteristic>
+            <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">6</characteristic>
+            <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">4</characteristic>
+            <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Heavy 1, Barrage, Large Blast</characteristic>
+          </characteristics>
+        </profile></sharedProfiles>
 </catalogue>
